@@ -6,7 +6,7 @@ Welcome to my **Project Management Portfolio**.
 
 I am a Project Management professional with experience in **Healthcare Market Research, Healthcare Operations, CRM Transformation, PMO, Agile Delivery, and Digital Transformation**.
 
-This repository showcases consulting-style case studies and project management deliverables inspired by real-world business scenarios. The projects demonstrate how I approach planning, governance, stakeholder management, delivery, reporting, and continuous improvement.
+This repository showcases case studies and project management deliverables inspired by real-world business scenarios. The projects demonstrate how I approach planning, governance, stakeholder management, delivery, reporting, and continuous improvement.
 
 ---
 
