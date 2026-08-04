@@ -1,42 +1,77 @@
-# Project Management Portfolio
+# 👋 Hi, I'm Debapriya Mondal
 
-Hi, I'm **Debapriya Mondal, PMP®, CSM®**.
+**PMP® | Certified ScrumMaster® (CSM®)**
 
-Welcome to my Project Management Portfolio.
+Welcome to my **Project Management Portfolio**.
 
-This repository showcases practical projects demonstrating my skills in:
+I am a Project Management professional with experience in **Healthcare Market Research, Healthcare Operations, CRM Transformation, PMO, Agile Delivery, and Digital Transformation**.
 
-- Healthcare Project Management
+This repository showcases consulting-style case studies and project management deliverables inspired by real-world business scenarios. The projects demonstrate how I approach planning, governance, stakeholder management, delivery, reporting, and continuous improvement.
+
+---
+
+# Areas of Expertise
+
+- Healthcare Market Research
 - Project & Program Management
-- PMO
-- Agile Delivery
-- Operations Excellence
-- Digital Transformation
+- PMO & Project Governance
+- Healthcare Operations
+- Salesforce CRM Implementation Support
+- Agile Project Management
+- Risk & Stakeholder Management
+- SQL
+- Power BI
 - AI Enablement
-- SQL & Power BI
 
-## Portfolio Roadmap
+---
 
-### Healthcare Projects
-- Hospital Management System Implementation (In Progress)
-- Electronic Health Record (EHR) Rollout
-- Prior Authorization Process Improvement
-- Healthcare Research Program Management
+# Portfolio Sections
 
-### AI Projects
-- AI Appointment Assistant
-- AI Claims Automation
-- AI Clinical Documentation Assistant
+## 01. Healthcare Market Research
 
-### PMO & Operations
-- PMO Governance Framework
-- Enterprise PMO Dashboard
+Managing multiple pharmaceutical market research studies, research operations, stakeholder communication, resource planning, and executive reporting.
 
-### Data Analytics
-- Healthcare KPI Dashboard
-- Project Portfolio Dashboard
+## 02. Healthcare Operations
 
-### Strategy
-- Digital Transformation Case Study
+Projects focused on prior authorization optimization, workflow improvement, and operational excellence.
+
+## 03. CRM Transformation
+
+Salesforce CRM implementation support, user adoption, UAT coordination, training, and go-live planning.
+
+## 04. PMO & Governance
+
+Project governance, RAID logs, executive reporting, project dashboards, and portfolio management.
+
+## 05. Business Analytics
+
+Power BI dashboards, KPI reporting, portfolio analytics, and project insights.
+
+## 06. AI Enablement
+
+Applying AI responsibly to improve healthcare research, operations, and project delivery.
+
+## 07. Case Studies
+
+End-to-end consulting case studies demonstrating project planning, execution, and lessons learned.
+
+## 08. Templates
+
+Reusable project management templates and best practices.
+
+---
+
+## Certifications
+
+- PMP®
+- Certified ScrumMaster® (CSM®)
+
+---
+
+## Connect With Me
+
+**LinkedIn**
+
+https://www.linkedin.com/in/debapriya-mondal-pmp%C2%AE-csm%C2%AE-91bb82215/
 
 Thank you for visiting my portfolio.
