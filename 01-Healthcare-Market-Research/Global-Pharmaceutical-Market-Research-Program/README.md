@@ -1,314 +1,501 @@
 # Global Pharmaceutical Market Research Program
 
-## Physician Insights, Market Research & Analytics Portfolio
+### Physician Insights | Healthcare Market Research | Project Management | SQL | Power BI
 
 ![Physician Insights Dashboard](physician-insights-dashboard.png)
 
 ---
 
-## Overview
+## 1. Project Overview
 
-This portfolio case study demonstrates the planning, coordination, research, and analytics involved in a simulated global pharmaceutical market research program supporting strategic business decisions for a multinational pharmaceutical client.
+The **Global Pharmaceutical Market Research Program** is an end-to-end healthcare market-research and project-management portfolio case study designed to demonstrate how structured project delivery, physician research, data analytics, and business intelligence can be combined to generate actionable business insights.
 
-The program consists of multiple concurrent qualitative and quantitative research activities designed to generate insights into physician behavior, treatment perceptions, adoption barriers, unmet needs, and market dynamics.
+The project analyzes physician survey data to understand:
 
-The project demonstrates an end-to-end workflow combining:
+* Adoption likelihood
+* Perceived effectiveness
+* Administrative burden
+* Safety perceptions
+* Adoption barriers
+* Unmet needs
+* Specialty-level adoption patterns
 
-- Project Management
-- Healthcare Market Research
-- Quantitative Research
-- Qualitative Research
-- PostgreSQL
-- SQL
-- Power BI
-- DAX
-- Business Analysis
-- Executive Reporting
+The project demonstrates the complete lifecycle from **business case and research planning through data analysis, Power BI visualization, executive reporting, and project closure**.
 
-As the Project Coordinator, the focus is on coordinating timelines, stakeholders, deliverables, risks, research activities, and reporting while also using data and analytics to translate research findings into actionable business insights.
-
-> **Portfolio note:** This is a fictional portfolio case study using synthetic data. It does not contain confidential client, patient, physician, or proprietary information.
+> **Portfolio Project:** This is a simulated professional project developed for portfolio demonstration. The underlying analysis is descriptive and should not be interpreted as clinical, regulatory, or medical evidence.
 
 ---
 
-## Business Challenge
+# 2. Business Problem
 
-The client requires reliable market intelligence to support commercial strategy, product planning, and evidence-based decision-making across multiple therapeutic areas.
+Pharmaceutical and healthcare organizations need reliable market-research insights to understand how physicians perceive potential treatments and healthcare solutions.
 
-Managing multiple research studies simultaneously requires structured governance, effective stakeholder communication, resource planning, proactive risk management, and clear reporting.
+However, survey data alone does not create business value.
 
-The analytics component of the program focuses on understanding physician perceptions of pharmaceutical treatments and identifying factors that may influence treatment adoption.
+The challenge is to transform research data into a structured decision-support process that connects:
 
----
+**Business Questions → Research Design → Data → Analysis → Insights → Recommendations**
 
-## Objectives
-
-- Deliver multiple market research studies on schedule.
-- Maintain high-quality research deliverables.
-- Coordinate cross-functional teams and stakeholders.
-- Improve visibility into project progress.
-- Analyze physician survey data.
-- Identify treatment adoption drivers and barriers.
-- Identify important unmet needs.
-- Compare treatment effectiveness and safety perceptions.
-- Support informed business decisions through timely reporting and analytics.
+This project demonstrates that process through a realistic pharmaceutical market-research program.
 
 ---
 
-## My Responsibilities
+# 3. Project Objectives
 
-- Project coordination
-- Timeline management
-- Stakeholder communication
-- Meeting coordination
-- Deliverable tracking
-- Risk and issue monitoring
-- Executive status reporting
-- Cross-functional collaboration
-- Research planning support
-- Quantitative research coordination
-- Data analysis and interpretation
-- Dashboard development
-- Business insight generation
+The project objectives were to:
+
+1. Establish a structured project-management framework for a global pharmaceutical market-research program.
+2. Define research scope, requirements, stakeholders, risks, and responsibilities.
+3. Analyze physician survey data using quantitative methods.
+4. Develop business-relevant KPIs using Power BI and DAX.
+5. Identify physician adoption patterns and potential barriers.
+6. Translate analytical findings into business insights.
+7. Present findings through an executive-friendly Power BI dashboard.
+8. Develop management-level recommendations and next-step research opportunities.
+9. Demonstrate end-to-end project governance and continuous-improvement practices.
 
 ---
 
-# Market Research Analytics
+# 4. Executive Snapshot
 
-## Research Question
-
-The quantitative research component was designed to understand physician perceptions across specialties and treatments.
-
-Key questions included:
-
-1. How likely are physicians to adopt the treatments being evaluated?
-2. Does adoption likelihood vary across specialties?
-3. What are the primary barriers to treatment adoption?
-4. What unmet needs are most frequently identified?
-5. How do physicians perceive treatment effectiveness?
-6. How do physicians perceive treatment safety?
+| Metric                           |          Result |
+| -------------------------------- | --------------: |
+| Physician Respondents            |         **500** |
+| Average Adoption Likelihood      |    **4.23 / 5** |
+| Average Effectiveness            |    **3.42 / 5** |
+| Average Administrative Burden    |    **3.03 / 5** |
+| Displayed Treatment Safety Range | **3.5–3.7 / 5** |
 
 ---
 
-## Dataset
+# 5. Key Findings
 
-The analysis uses a synthetic physician survey dataset containing:
+### Strong Adoption Potential
 
-**500 physician respondents**
+The overall **Average Adoption Likelihood is 4.23/5**.
 
-The dataset includes variables relating to:
+Adoption likelihood is also highly consistent across the physician specialties displayed in the dashboard:
 
-- Physician specialty
-- Primary treatment
-- Treatment effectiveness
-- Treatment safety
-- Adoption likelihood
-- Administrative burden
-- Adoption barriers
-- Unmet needs
-- Physician experience
-- Practice setting
-- Patient volume
-- Other physician perception measures
+* Cardiology — 4.3
+* Neurology — 4.3
+* Immunology — 4.2
+* Endocrinology — 4.2
+* Oncology — 4.2
+
+This indicates a broadly favorable adoption signal across the displayed specialties.
 
 ---
 
-# Power BI Dashboard
+### Administrative Complexity Is the Leading Barrier
 
-The physician survey data was analyzed and visualized in Microsoft Power BI to create an executive-level **Physician Insights Dashboard**.
+**Administrative Complexity** is the leading primary adoption barrier identified in the dashboard.
 
-The dashboard includes:
+Other barriers include:
 
-- KPI cards
-- Adoption likelihood by specialty
-- Primary adoption barriers
-- Top unmet needs
-- Treatment effectiveness
-- Treatment safety ratings
-- Executive key findings
+* Cost / Access
+* Physician Familiarity
+* Limited Evidence
+* Patient Acceptance
+* Workflow Impact
 
-### Key KPIs
-
-| KPI | Result |
-|---|---:|
-| Total Physicians | 500 |
-| Average Adoption Likelihood | 4.23 / 5 |
-| Average Effectiveness | 3.42 / 5 |
-| Average Administrative Burden | 3.03 / 5 |
+This suggests that physician willingness to adopt may coexist with significant operational and implementation challenges.
 
 ---
 
-## Key Findings
+### Effectiveness Is More Moderate
 
-### 1. Strong Adoption Potential
+The overall **Average Effectiveness is 3.42/5**.
 
-Average physician adoption likelihood is **4.23/5**, indicating strong overall willingness to consider treatment adoption.
+The treatment-level effectiveness ratings displayed in the dashboard range from approximately **3.3 to 3.6/5**.
 
-### 2. Administrative Complexity Is the Leading Barrier
+This creates an important business question:
 
-Administrative complexity is the most frequently reported adoption barrier, followed by cost/access concerns.
-
-This highlights the importance of reducing operational friction alongside demonstrating clinical value.
-
-### 3. Adoption Is Relatively Consistent Across Specialties
-
-Average adoption likelihood remains relatively close across the physician specialties represented in the dataset.
-
-This suggests that adoption opportunity is not concentrated in only one specialty.
-
-### 4. Treatment Effectiveness Is Relatively Consistent
-
-Average effectiveness is **3.42/5**, with treatment-level averages generally falling within the mid-3 range.
-
-### 5. Safety Perceptions Remain Relatively Stable
-
-Treatment safety ratings remain in the mid-3 range across the treatments evaluated.
+> What factors are contributing to strong adoption intent despite more moderate effectiveness perceptions?
 
 ---
 
-# Business Recommendations
+### Administrative Burden Remains Meaningful
 
-Based on the analysis, pharmaceutical market strategy teams could consider:
+The overall **Average Administrative Burden is 3.03/5**.
 
-### Reduce Administrative Friction
-
-Simplify administrative processes, documentation requirements, authorization workflows, and implementation steps where possible.
-
-### Address Cost and Access
-
-Further investigate affordability, reimbursement, coverage, and access barriers affecting treatment adoption.
-
-### Strengthen Evidence Communication
-
-Develop clear evidence-based communication addressing clinical effectiveness and physician concerns.
-
-### Improve Patient Support
-
-Explore patient education, adherence support, and patient-facing resources where unmet needs are identified.
-
-### Support Clinical Workflow Integration
-
-Treatments that integrate effectively into existing clinical workflows may encounter fewer adoption barriers.
+Combined with administrative complexity being the leading adoption barrier, this highlights operational friction as an important area for further investigation.
 
 ---
 
-# SQL Analysis
+### Safety Perception Is Relatively Stable
 
-PostgreSQL was used to store and analyze the physician survey dataset.
+The displayed treatment-level safety ratings range from approximately **3.5 to 3.7/5**.
 
-The SQL analysis demonstrates:
-
-- Data exploration
-- Aggregation
-- Physician segmentation
-- Adoption analysis
-- Treatment analysis
-- Adoption barrier analysis
-- Unmet-needs analysis
-- Ranking
-- Window functions
-- Business-oriented filtering
-
-### SQL Concepts Demonstrated
-
-- `SELECT`
-- `COUNT()`
-- `AVG()`
-- `GROUP BY`
-- `HAVING`
-- `ORDER BY`
-- Subqueries
-- `ROW_NUMBER()`
-- Window functions
-- Multi-dimensional segmentation
-
-The SQL analysis is documented in:
-
-**`15-Healthcare-Market-Research-SQL-Analysis.sql`**
+The relatively narrow range suggests broadly similar safety perceptions across the treatments shown.
 
 ---
 
-# Power BI & DAX
+# 6. Power BI Dashboard
 
-Power BI was used to transform the physician survey dataset into an executive dashboard.
+The dashboard provides an executive-level view of physician insights.
 
-Key DAX measures include:
+### Dashboard Components
 
-```DAX
-Total Physicians =
-DISTINCTCOUNT('public physician_survey'[respondent_id])
-Average Adoption Likelihood =
-AVERAGE('public physician_survey'[likelihood_to_adopt])
-Average Effectiveness =
-AVERAGE('public physician_survey'[effectiveness_rating])
-Average Administrative Burden =
-AVERAGE('public physician_survey'[administrative_burden_rating])
-Average Safety Rating =
-AVERAGE('public physician_survey'[safety_rating])
-```
+* KPI cards
+* Adoption likelihood by specialty
+* Primary adoption barriers
+* Top unmet needs
+* Treatment effectiveness
+* Treatment safety
+* Key findings
+* Physician-level market-research insights
 
-# End-to-End Workflow
+### Core KPIs
 
-Project & Research Planning  
-↓  
-Stakeholder & Risk Management  
-↓  
-Qualitative & Quantitative Research Design  
-↓  
-Physician Survey Dataset  
-↓  
-PostgreSQL Database  
-↓  
-SQL Analysis  
-↓  
-Power BI + DAX
+The dashboard uses five primary DAX measures:
+
+* Total Physicians
+* Average Adoption Likelihood
+* Average Effectiveness
+* Average Administrative Burden
+* Average Safety Rating
 
 ---
 
-## Key Findings
+# 7. Project Management Framework
 
-- **Strong adoption potential** — Average adoption likelihood is **4.23/5**.
-- **Administrative complexity is the leading barrier** — followed by **cost/access concerns**.
-- **Treatment performance is consistent** — effectiveness averages **3.42/5**, with safety ratings in the mid-3s.
-- **Physician insights vary only slightly across specialties**, indicating broadly consistent adoption potential.
-- **Treatment effectiveness is relatively consistent** across the treatments evaluated.
+The project follows an end-to-end project-management lifecycle.
 
----
+### Initiation & Strategy
 
-## Tools & Technologies
+* [Business Case](01-Business-Case.md)
+* [Program Charter](03-Program-Charter.md)
+* [Research Study Overview](11-Research-Study-Overview.md)
 
-- Power BI
-- DAX
-- SQL
-- PostgreSQL
-- Excel
-- GitHub
-- Quantitative Research
-- Qualitative Research
-- Project Management
+### Planning & Governance
 
----
+* [Scope & Requirements](02-Scope-and-Requirements.md)
+* [Project Plan](05-Project-Plan.md)
+* [Work Breakdown Structure](03-Work-Breakdown-Structure.md)
+* [Project Schedule & Milestones](04-Project-Schedule-and-Milestones.md)
+* [Stakeholder Register](02-Stakeholder-Register.md)
+* [RACI Matrix](06-RACI-Matrix.md)
+* [Communication Plan](08-Communication-Plan.md)
 
-## Project Management Skills Demonstrated
+### Risk, Control & Delivery Management
 
-- Project planning and scheduling
-- Stakeholder management
-- Risk and issue management
-- Research coordination
-- Cross-functional collaboration
-- Data analysis and reporting
-- Executive dashboard development
-- KPI tracking
-- Business insight generation
+* [Risk & Issue Register](07-Risk-and-Issue-Register.xlsx)
+* [Risk Register](05-Risk-Register.md)
+* [Decision & Action Log](09-Decision-and-Action-Log.xlsx)
+* [Weekly Project Status Report](10-Weekly-Project-Status-Report.xlsx)
+* [Lessons Learned](12-Lessons-Learned.md)
 
 ---
 
-## Portfolio Purpose
+# 8. Research Methodology
 
-This project demonstrates how **project management, healthcare market research, SQL analysis, and Power BI** can be combined to transform research data into actionable business insights.
+The project incorporates both **qualitative and quantitative market-research components**.
 
-It is designed as a portfolio case study demonstrating both **project delivery capabilities and hands-on analytical skills**.
+### Research Planning
+
+* [Research Plan](04-Research-Plan.md)
+* [Research Study Overview](11-Research-Study-Overview.md)
+
+### Qualitative Research
+
+* [Qualitative Discussion Guide](12-Qualitative-Discussion-Guide.md)
+
+The qualitative component is designed to explore physician perspectives, motivations, concerns, barriers, and unmet needs.
+
+### Quantitative Research
+
+* [Quantitative Survey Framework](13-Quantitative-Survey-Framework.md)
+* [Physician Survey Dataset](14-Physician-Survey-Dataset.xlsx)
+
+The quantitative component supports structured measurement of physician perceptions and adoption-related variables.
 
 ---
 
-**Status:** ✅ Completed
+# 9. Data & Analytics
+
+The analytical workflow follows:
+
+**Survey Data**
+
+↓
+
+**Data Quality Assessment**
+
+↓
+
+**Data Preparation**
+
+↓
+
+**SQL Analysis**
+
+↓
+
+**KPI Definition**
+
+↓
+
+**DAX Measures**
+
+↓
+
+**Power BI Dashboard**
+
+↓
+
+**Business Insights**
+
+### Data Governance
+
+* [Data Dictionary](07-Data-Dictionary.md)
+* [Data Quality Assessment](08-Data-Quality-Assessment.md)
+
+### SQL
+
+* [Healthcare Market Research SQL Analysis](15-Healthcare-Market-Research-SQL-Analysis.sql)
+
+The SQL analysis demonstrates structured querying and analytical preparation of healthcare market-research data.
+
+### Power BI & DAX
+
+* [KPI & DAX Documentation](09-KPI-and-DAX-Documentation.md)
+* [Power BI Dashboard Analysis](16-PowerBI-Dashboard-Analysis.md)
+* [Power BI Dashboard File](Healthcare-Market-Research-Dashboard.pbix)
+
+The DAX documentation establishes traceability between business requirements, source fields, calculations, KPIs, and dashboard outputs.
+
+---
+
+# 10. Business Insights & Reporting
+
+The project translates analytical outputs into decision-support materials.
+
+* [Research Insights & Findings](10-Research-Insights-and-Findings.md)
+* [Executive Summary](11-Executive-Summary.md)
+
+The insights framework follows:
+
+**Finding → Evidence → Interpretation → Business Implication → Recommended Next Step**
+
+This ensures that the project does not stop at visualization but connects analytical results to business decision-making.
+
+---
+
+# 11. Project Deliverables
+
+| Area            | Deliverables                                             |
+| --------------- | -------------------------------------------------------- |
+| Strategy        | Business Case, Program Charter                           |
+| Research        | Research Plan, Study Overview                            |
+| Stakeholders    | Stakeholder Register, RACI                               |
+| Planning        | Scope, Project Plan, WBS, Schedule                       |
+| Governance      | Communication Plan, Risk Register                        |
+| Project Control | Status Report, Decision & Action Log                     |
+| Research Design | Qualitative Guide, Quantitative Framework                |
+| Data            | Survey Dataset, Data Dictionary, Data Quality Assessment |
+| Analytics       | SQL Analysis, KPI/DAX Documentation                      |
+| BI              | Power BI Dashboard, Dashboard Analysis                   |
+| Insights        | Research Findings, Executive Summary                     |
+| Closure         | Lessons Learned                                          |
+
+---
+
+# 12. Tools & Skills Demonstrated
+
+### Project Management
+
+* Project Planning
+* Program Management
+* Scope Management
+* Stakeholder Management
+* Risk Management
+* Schedule Management
+* RACI
+* Project Governance
+* Status Reporting
+* Decision & Action Tracking
+* Lessons Learned
+
+### Healthcare Market Research
+
+* Pharmaceutical Market Research
+* Physician Research
+* Qualitative Research
+* Quantitative Research
+* Survey Design
+* Adoption Analysis
+* Barrier Analysis
+* Unmet-Needs Analysis
+* Research Interpretation
+
+### Data & Business Intelligence
+
+* SQL
+* Power BI
+* DAX
+* KPI Development
+* Data Quality Assessment
+* Data Dictionary
+* Data Visualization
+* Business Insights
+* Executive Reporting
+
+---
+
+# 13. Project Lifecycle
+
+The project demonstrates the following end-to-end lifecycle:
+
+**Business Need**
+
+↓
+
+**Business Case**
+
+↓
+
+**Project / Program Charter**
+
+↓
+
+**Research Planning**
+
+↓
+
+**Stakeholder & Scope Management**
+
+↓
+
+**WBS & Schedule**
+
+↓
+
+**Risk & Governance**
+
+↓
+
+**Qualitative & Quantitative Research**
+
+↓
+
+**Data Quality**
+
+↓
+
+**SQL & Analytical Preparation**
+
+↓
+
+**KPI & DAX Development**
+
+↓
+
+**Power BI Dashboard**
+
+↓
+
+**Research Insights**
+
+↓
+
+**Executive Recommendations**
+
+↓
+
+**Lessons Learned**
+
+---
+
+# 14. Key Management Takeaway
+
+The central insight from the project is:
+
+> **Physician adoption intent appears strong, but successful adoption may depend on reducing administrative complexity and addressing access, evidence, familiarity, and patient-related barriers.**
+
+This shifts the focus from simply measuring physician willingness to understanding the conditions required for successful adoption.
+
+---
+
+# 15. Recommended Next-Step Analysis
+
+A future iteration could expand the analysis through:
+
+1. Specialty-level adoption-driver analysis
+2. Adoption versus effectiveness analysis
+3. Adoption versus administrative burden analysis
+4. Adoption versus safety analysis
+5. Barrier analysis by physician segment
+6. Deeper unmet-needs analysis
+7. Statistical analysis of relationships between variables
+8. Additional qualitative physician research
+9. Longitudinal analysis where data becomes available
+10. Integration of market-access and reimbursement variables
+
+---
+
+# 16. Analytical Limitations
+
+This portfolio project is based on an available physician survey dataset and is intended to demonstrate professional project-management, healthcare market-research, business-analysis, and data-analytics capabilities.
+
+The findings are descriptive and should not be interpreted as:
+
+* Clinical evidence
+* Regulatory evidence
+* Medical advice
+* Causal conclusions
+* Forecasts of actual prescribing behavior
+* Guarantees of commercial adoption
+
+Additional primary research, statistical analysis, and real-world evidence would be required to support broader clinical or commercial conclusions.
+
+---
+
+# 17. Portfolio Value
+
+This project demonstrates the ability to manage and communicate a **data-driven healthcare program from initiation through executive reporting**.
+
+It combines:
+
+**Project Management**
+
+*
+
+**Healthcare Market Research**
+
+*
+
+**Business Analysis**
+
+*
+
+**SQL**
+
+*
+
+**Power BI / DAX**
+
+*
+
+**Executive Communication**
+
+The result is an end-to-end professional case study designed to demonstrate practical, cross-functional project delivery capabilities.
+
+---
+
+## Project Status
+
+**Portfolio Case Study — Completed**
+
+**Primary Domain:** Pharmaceutical / Healthcare Market Research
+
+**Focus:** Physician Insights, Adoption Analysis & Business Intelligence
+
+**Core Technologies:** SQL, Power BI, DAX
+
+**Project Management Approach:** Structured / Hybrid
+
+---
+
+### Disclaimer
+
+This project is a simulated professional portfolio case study. It is not affiliated with or representative of any specific pharmaceutical company, clinical trial, regulatory submission, or commercial product.
