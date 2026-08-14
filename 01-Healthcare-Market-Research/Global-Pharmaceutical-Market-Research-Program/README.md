@@ -12,13 +12,13 @@ The **Global Pharmaceutical Market Research Program** is an end-to-end healthcar
 
 The project analyzes physician survey data to understand:
 
-* Adoption likelihood
-* Perceived effectiveness
-* Administrative burden
-* Safety perceptions
-* Adoption barriers
-* Unmet needs
-* Specialty-level adoption patterns
+- Adoption likelihood
+- Perceived effectiveness
+- Administrative burden
+- Safety perceptions
+- Adoption barriers
+- Unmet needs
+- Specialty-level adoption patterns
 
 The project demonstrates the lifecycle from **business case and research planning through data preparation, PostgreSQL/SQL analysis, Power BI and DAX development, business insights, executive reporting, and project closure**.
 
@@ -26,7 +26,7 @@ The project demonstrates the lifecycle from **business case and research plannin
 
 ---
 
-# 2. Business Problem
+## 2. Business Problem
 
 Pharmaceutical and healthcare organizations need reliable market-research insights to understand how physicians perceive potential treatments and healthcare solutions.
 
@@ -40,7 +40,7 @@ This project demonstrates that process through a realistic pharmaceutical market
 
 ---
 
-# 3. Project Objectives
+## 3. Project Objectives
 
 The project objectives were to:
 
@@ -58,19 +58,19 @@ The project objectives were to:
 
 ---
 
-# 4. Executive Snapshot
+## 4. Executive Snapshot
 
-| Metric                           |          Result |
-| -------------------------------- | --------------: |
-| Physician Respondents            |         **500** |
-| Average Adoption Likelihood      |    **4.23 / 5** |
-| Average Effectiveness            |    **3.42 / 5** |
-| Average Administrative Burden    |    **3.03 / 5** |
+| Metric | Result |
+|---|---:|
+| Physician Respondents | **500** |
+| Average Adoption Likelihood | **4.23 / 5** |
+| Average Effectiveness | **3.42 / 5** |
+| Average Administrative Burden | **3.03 / 5** |
 | Displayed Treatment Safety Range | **3.5–3.7 / 5** |
 
 ---
 
-# 5. Key Findings
+## 5. Key Findings
 
 ### Strong Adoption Potential
 
@@ -78,13 +78,13 @@ The overall **Average Adoption Likelihood is 4.23/5**.
 
 Adoption likelihood is also highly consistent across the physician specialties displayed in the dashboard:
 
-| Specialty     | Adoption Likelihood |
-| ------------- | ------------------: |
-| Cardiology    |                 4.3 |
-| Neurology     |                 4.3 |
-| Immunology    |                 4.2 |
-| Endocrinology |                 4.2 |
-| Oncology      |                 4.2 |
+| Specialty | Adoption Likelihood |
+|---|---:|
+| Cardiology | 4.3 |
+| Neurology | 4.3 |
+| Immunology | 4.2 |
+| Endocrinology | 4.2 |
+| Oncology | 4.2 |
 
 This indicates a broadly favorable adoption signal across the displayed specialties.
 
@@ -96,11 +96,11 @@ This indicates a broadly favorable adoption signal across the displayed specialt
 
 Other barriers include:
 
-* Cost / Access
-* Physician Familiarity
-* Limited Evidence
-* Patient Acceptance
-* Workflow Impact
+- Cost / Access
+- Physician Familiarity
+- Limited Evidence
+- Patient Acceptance
+- Workflow Impact
 
 This suggests that physician willingness to adopt may coexist with significant operational and implementation challenges.
 
@@ -136,7 +136,7 @@ The dashboard does not display a single overall Average Safety Rating KPI, so th
 
 ---
 
-# 6. Data Source & Analytical Workflow
+## 6. Data Source & Analytical Workflow
 
 The project follows a complete data-to-insight workflow:
 
@@ -172,7 +172,7 @@ The project follows a complete data-to-insight workflow:
 
 ### Source Dataset
 
-* [Physician Survey Dataset](14-Physician-Survey-Dataset.xlsx)
+- [Physician Survey Dataset](19-Physician-Survey-Dataset.xlsx)
 
 The physician survey dataset was initially prepared as an Excel dataset for the portfolio project.
 
@@ -188,50 +188,50 @@ The PostgreSQL table contains the physician survey data used for the analytical 
 
 ### SQL
 
-* [Healthcare Market Research SQL Analysis](15-Healthcare-Market-Research-SQL-Analysis.sql)
+- [Healthcare Market Research SQL Analysis](22-Healthcare-Market-Research-SQL-Analysis.sql)
 
 The SQL analysis demonstrates structured querying of the physician survey dataset after it was loaded into PostgreSQL.
 
 ### Power BI
 
-* [Power BI Dashboard Analysis](16-PowerBI-Dashboard-Analysis.md)
-* [Power BI Dashboard File](Healthcare-Market-Research-Dashboard.pbix)
-* [Dashboard Image](physician-insights-dashboard.png)
+- [Power BI Dashboard Analysis](24-PowerBI-Dashboard-Analysis.md)
+- [Power BI Dashboard File](Healthcare-Market-Research-Dashboard.pbix)
+- [Dashboard Image](physician-insights-dashboard.png)
 
 The Power BI dashboard uses the PostgreSQL-based `public physician_survey` table as its analytical data source.
 
 ---
 
-# 7. Power BI Dashboard
+## 7. Power BI Dashboard
 
 The dashboard provides an executive-level view of physician insights.
 
 ### Dashboard Components
 
-* KPI cards
-* Adoption likelihood by specialty
-* Primary adoption barriers
-* Top unmet needs
-* Treatment effectiveness
-* Treatment safety
-* Key findings
-* Physician market-research insights
+- KPI cards
+- Adoption likelihood by specialty
+- Primary adoption barriers
+- Top unmet needs
+- Treatment effectiveness
+- Treatment safety
+- Key findings
+- Physician market-research insights
 
 ### Core KPIs
 
 The dashboard uses five primary DAX measures:
 
-* Total Physicians
-* Average Adoption Likelihood
-* Average Effectiveness
-* Average Administrative Burden
-* Average Safety Rating
+- Total Physicians
+- Average Adoption Likelihood
+- Average Effectiveness
+- Average Administrative Burden
+- Average Safety Rating
 
 ---
 
-# 8. KPI & DAX Framework
+## 8. KPI & DAX Framework
 
-* [KPI & DAX Documentation](09-KPI-and-DAX-Documentation.md)
+- [KPI & DAX Documentation](23-KPI-and-DAX-Documentation.md)
 
 The Power BI data model uses the PostgreSQL table:
 
@@ -239,13 +239,13 @@ The Power BI data model uses the PostgreSQL table:
 
 Core source fields include:
 
-| Business Concept      | PostgreSQL / Power BI Field    |
-| --------------------- | ------------------------------ |
-| Respondent ID         | `respondent_id`                |
-| Adoption Likelihood   | `likelihood_to_adopt`          |
-| Effectiveness         | `effectiveness_rating`         |
+| Business Concept | PostgreSQL / Power BI Field |
+|---|---|
+| Respondent ID | `respondent_id` |
+| Adoption Likelihood | `likelihood_to_adopt` |
+| Effectiveness | `effectiveness_rating` |
 | Administrative Burden | `administrative_burden_rating` |
-| Safety                | `safety_rating`                |
+| Safety | `safety_rating` |
 
 ### Core DAX Measures
 
@@ -278,76 +278,82 @@ The DAX documentation establishes traceability between business requirements, so
 
 ---
 
-# 9. Project Management Framework
+## 9. Project Management Framework
 
 The project follows an end-to-end project-management lifecycle.
 
-## Strategy & Initiation
+### Strategy & Initiation
 
-* [Business Case](01-Business-Case.md)
-* [Program Charter](03-Program-Charter.md)
-* [Research Study Overview](11-Research-Study-Overview.md)
+- [Business Case](01-Business-Case.md)
+- [Program Charter](02-Program-Charter.md)
+- [Research Study Overview](03-Research-Study-Overview.md)
 
-## Planning & Governance
+### Research Design
 
-* [Scope & Requirements](02-Scope-and-Requirements.md)
-* [Project Plan](05-Project-Plan.md)
-* [Work Breakdown Structure](03-Work-Breakdown-Structure.md)
-* [Project Schedule & Milestones](04-Project-Schedule-and-Milestones.md)
-* [Stakeholder Register](02-Stakeholder-Register.md)
-* [RACI Matrix](06-RACI-Matrix.md)
-* [Communication Plan](08-Communication-Plan.md)
+- [Research Plan](04-Research-Plan.md)
+- [Qualitative Discussion Guide](05-Qualitative-Discussion-Guide.md)
+- [Quantitative Survey Framework](06-Quantitative-Survey-Framework.md)
 
-## Risk, Control & Delivery Management
+### Planning & Governance
 
-* [Risk & Issue Register](07-Risk-and-Issue-Register.xlsx)
-* [Risk Register](05-Risk-Register.md)
-* [Decision & Action Log](09-Decision-and-Action-Log.xlsx)
-* [Weekly Project Status Report](10-Weekly-Project-Status-Report.xlsx)
-* [Lessons Learned](12-Lessons-Learned.md)
+- [Stakeholder Register](07-Stakeholder-Register.md)
+- [Scope & Requirements](08-Scope-and-Requirements.md)
+- [Work Breakdown Structure](09-Work-Breakdown-Structure.md)
+- [Project Plan](10-Project-Plan.md)
+- [Project Schedule & Milestones](11-Project-Schedule-and-Milestones.md)
+- [Project Schedule](12-Project-Schedule.xlsx)
+- [RACI Matrix](13-RACI-Matrix.md)
+- [Communication Plan](14-Communication-Plan.md)
+
+### Risk, Control & Delivery Management
+
+- [Risk & Issue Register](15-Risk-and-Issue-Register.xlsx)
+- [Risk Register](16-Risk-Register.md)
+- [Decision & Action Log](17-Decision-and-Action-Log.xlsx)
+- [Weekly Project Status Report](18-Weekly-Project-Status-Report.xlsx)
 
 ---
 
-# 10. Research Methodology
+## 10. Research Methodology
 
 The project incorporates both **qualitative and quantitative market-research components**.
 
-## Research Planning
+### Research Planning
 
-* [Research Plan](04-Research-Plan.md)
-* [Research Study Overview](11-Research-Study-Overview.md)
+- [Research Plan](04-Research-Plan.md)
+- [Research Study Overview](03-Research-Study-Overview.md)
 
-## Qualitative Research
+### Qualitative Research
 
-* [Qualitative Discussion Guide](12-Qualitative-Discussion-Guide.md)
+- [Qualitative Discussion Guide](05-Qualitative-Discussion-Guide.md)
 
 The qualitative component is designed to explore physician perspectives, motivations, concerns, barriers, and unmet needs.
 
-## Quantitative Research
+### Quantitative Research
 
-* [Quantitative Survey Framework](13-Quantitative-Survey-Framework.md)
-* [Physician Survey Dataset](14-Physician-Survey-Dataset.xlsx)
+- [Quantitative Survey Framework](06-Quantitative-Survey-Framework.md)
+- [Physician Survey Dataset](19-Physician-Survey-Dataset.xlsx)
 
 The quantitative component supports structured measurement of physician perceptions and adoption-related variables.
 
 ---
 
-# 11. Data Governance & Quality
+## 11. Data Governance & Quality
 
 The project includes structured data-governance documentation to support analytical transparency.
 
-* [Data Dictionary](07-Data-Dictionary.md)
-* [Data Quality Assessment](08-Data-Quality-Assessment.md)
+- [Data Dictionary](20-Data-Dictionary.md)
+- [Data Quality Assessment](21-Data-Quality-Assessment.md)
 
 The data-quality process considers:
 
-* Completeness
-* Validity
-* Consistency
-* Uniqueness
-* Accuracy
-* Data integrity
-* Fitness for analytical purpose
+- Completeness
+- Validity
+- Consistency
+- Uniqueness
+- Accuracy
+- Data integrity
+- Fitness for analytical purpose
 
 The workflow establishes traceability between:
 
@@ -355,12 +361,40 @@ The workflow establishes traceability between:
 
 ---
 
-# 12. Business Insights & Reporting
+## 12. Data & Analytics
+
+### Source Dataset
+
+The original physician survey dataset was prepared in Excel and subsequently loaded into PostgreSQL.
+
+### PostgreSQL
+
+Primary analytical table:
+
+`public physician_survey`
+
+### SQL
+
+- [Healthcare Market Research SQL Analysis](22-Healthcare-Market-Research-SQL-Analysis.sql)
+
+The SQL analysis demonstrates structured querying and analytical preparation of the physician survey data.
+
+### Power BI & DAX
+
+- [KPI & DAX Documentation](23-KPI-and-DAX-Documentation.md)
+- [Power BI Dashboard Analysis](24-PowerBI-Dashboard-Analysis.md)
+- [Power BI Dashboard File](Healthcare-Market-Research-Dashboard.pbix)
+
+The workflow demonstrates practical use of PostgreSQL, SQL, Power BI, and DAX to transform survey data into business intelligence.
+
+---
+
+## 13. Business Insights & Reporting
 
 The project translates analytical outputs into decision-support materials.
 
-* [Research Insights & Findings](10-Research-Insights-and-Findings.md)
-* [Executive Summary](11-Executive-Summary.md)
+- [Research Insights & Findings](25-Research-Insights-and-Findings.md)
+- [Executive Summary](26-Executive-Summary.md)
 
 The insights framework follows:
 
@@ -370,7 +404,7 @@ This ensures that the project does not stop at visualization but connects analyt
 
 ---
 
-# 13. Key Business Implications
+## 14. Key Business Implications
 
 The analysis suggests several areas for further investigation.
 
@@ -380,11 +414,11 @@ Administrative complexity is the leading adoption barrier.
 
 Potential areas for further research include:
 
-* Simplifying administrative workflows
-* Improving process integration
-* Providing implementation support
-* Reducing unnecessary administrative steps
-* Developing clearer operational guidance
+- Simplifying administrative workflows
+- Improving process integration
+- Providing implementation support
+- Reducing unnecessary administrative steps
+- Developing clearer operational guidance
 
 ### 2. Address Cost and Access
 
@@ -392,11 +426,11 @@ Cost / Access is identified as another important barrier.
 
 Further research could investigate:
 
-* Accessibility
-* Affordability
-* Reimbursement considerations
-* Administrative requirements
-* Potential access barriers
+- Accessibility
+- Affordability
+- Reimbursement considerations
+- Administrative requirements
+- Potential access barriers
 
 ### 3. Strengthen Physician Familiarity
 
@@ -404,11 +438,11 @@ Physician Familiarity appears among the identified adoption barriers.
 
 Potential areas for investigation include:
 
-* Educational needs
-* Awareness
-* Training requirements
-* Communication preferences
-* Specialty-specific information needs
+- Educational needs
+- Awareness
+- Training requirements
+- Communication preferences
+- Specialty-specific information needs
 
 ### 4. Strengthen Evidence Communication
 
@@ -416,10 +450,10 @@ Limited Evidence appears among the identified barriers.
 
 Future research could examine:
 
-* Which types of evidence physicians value most
-* Evidence gaps by specialty
-* Information requirements before adoption
-* The relationship between evidence perception and adoption intent
+- Which types of evidence physicians value most
+- Evidence gaps by specialty
+- Information requirements before adoption
+- The relationship between evidence perception and adoption intent
 
 ### 5. Address Patient-Centered Needs
 
@@ -427,34 +461,34 @@ Patient Acceptance and Patient Adherence appear within the project's barrier and
 
 Future research could investigate:
 
-* Patient education
-* Adherence support
-* Convenience
-* Patient support services
-* Side-effect management
+- Patient education
+- Adherence support
+- Convenience
+- Patient support services
+- Side-effect management
 
 ---
 
-# 14. Project Deliverables
+## 15. Project Deliverables
 
-| Area            | Deliverables                                             |
-| --------------- | -------------------------------------------------------- |
-| Strategy        | Business Case, Program Charter                           |
-| Research        | Research Plan, Study Overview                            |
-| Stakeholders    | Stakeholder Register, RACI                               |
-| Planning        | Scope, Project Plan, WBS, Schedule                       |
-| Governance      | Communication Plan, Risk Register                        |
-| Project Control | Status Report, Decision & Action Log                     |
-| Research Design | Qualitative Guide, Quantitative Framework                |
-| Data            | Survey Dataset, Data Dictionary, Data Quality Assessment |
-| Analytics       | PostgreSQL / SQL Analysis, KPI/DAX Documentation         |
-| BI              | Power BI Dashboard, Dashboard Analysis                   |
-| Insights        | Research Findings, Executive Summary                     |
-| Closure         | Lessons Learned                                          |
+| Area | Deliverables |
+|---|---|
+| Strategy | Business Case, Program Charter, Research Study Overview |
+| Research | Research Plan, Qualitative Discussion Guide, Quantitative Survey Framework |
+| Stakeholders | Stakeholder Register, RACI |
+| Planning | Scope, Project Plan, WBS, Schedule |
+| Governance | Communication Plan |
+| Risk & Control | Risk Register, Risk & Issue Register, Decision & Action Log |
+| Project Control | Weekly Status Report |
+| Data | Survey Dataset, Data Dictionary, Data Quality Assessment |
+| Analytics | PostgreSQL / SQL Analysis, KPI/DAX Documentation |
+| BI | Power BI Dashboard, Dashboard Analysis |
+| Insights | Research Findings, Executive Summary |
+| Closure | Lessons Learned |
 
 ---
 
-# 15. Project Lifecycle
+## 16. Project Lifecycle
 
 The project demonstrates the following end-to-end lifecycle:
 
@@ -526,50 +560,50 @@ The project demonstrates the following end-to-end lifecycle:
 
 ---
 
-# 16. Tools & Skills Demonstrated
+## 17. Tools & Skills Demonstrated
 
-## Project Management
+### Project Management
 
-* Project Planning
-* Program Management
-* Scope Management
-* Stakeholder Management
-* Risk Management
-* Schedule Management
-* RACI
-* Project Governance
-* Status Reporting
-* Decision & Action Tracking
-* Lessons Learned
+- Project Planning
+- Program Management
+- Scope Management
+- Stakeholder Management
+- Risk Management
+- Schedule Management
+- RACI
+- Project Governance
+- Status Reporting
+- Decision & Action Tracking
+- Lessons Learned
 
-## Healthcare Market Research
+### Healthcare Market Research
 
-* Pharmaceutical Market Research
-* Physician Research
-* Qualitative Research
-* Quantitative Research
-* Survey Design
-* Adoption Analysis
-* Barrier Analysis
-* Unmet-Needs Analysis
-* Research Interpretation
+- Pharmaceutical Market Research
+- Physician Research
+- Qualitative Research
+- Quantitative Research
+- Survey Design
+- Adoption Analysis
+- Barrier Analysis
+- Unmet-Needs Analysis
+- Research Interpretation
 
-## Data & Business Intelligence
+### Data & Business Intelligence
 
-* PostgreSQL
-* SQL
-* Power BI
-* DAX
-* KPI Development
-* Data Quality Assessment
-* Data Dictionary
-* Data Visualization
-* Business Insights
-* Executive Reporting
+- PostgreSQL
+- SQL
+- Power BI
+- DAX
+- KPI Development
+- Data Quality Assessment
+- Data Dictionary
+- Data Visualization
+- Business Insights
+- Executive Reporting
 
 ---
 
-# 17. Recommended Next-Step Analysis
+## 18. Recommended Next-Step Analysis
 
 A future iteration could expand the analysis through:
 
@@ -586,24 +620,24 @@ A future iteration could expand the analysis through:
 
 ---
 
-# 18. Analytical Limitations
+## 19. Analytical Limitations
 
 This portfolio project is based on a physician survey dataset created for professional portfolio demonstration and subsequently loaded into PostgreSQL for analysis.
 
 The findings are descriptive and should not be interpreted as:
 
-* Clinical evidence
-* Regulatory evidence
-* Medical advice
-* Causal conclusions
-* Forecasts of actual prescribing behavior
-* Guarantees of commercial adoption
+- Clinical evidence
+- Regulatory evidence
+- Medical advice
+- Causal conclusions
+- Forecasts of actual prescribing behavior
+- Guarantees of commercial adoption
 
 Additional primary research, statistical analysis, and real-world evidence would be required to support broader clinical or commercial conclusions.
 
 ---
 
-# 19. Portfolio Value
+## 20. Portfolio Value
 
 This project demonstrates the ability to manage and communicate a **data-driven healthcare market-research program from initiation through executive reporting**.
 
@@ -611,23 +645,23 @@ It combines:
 
 **Project Management**
 
-*
++
 
 **Healthcare Market Research**
 
-*
++
 
 **Business Analysis**
 
-*
++
 
 **PostgreSQL / SQL**
 
-*
++
 
 **Power BI / DAX**
 
-*
++
 
 **Executive Communication**
 
@@ -635,7 +669,7 @@ The result is an end-to-end professional case study demonstrating cross-function
 
 ---
 
-# 20. Key Management Takeaway
+## 21. Key Management Takeaway
 
 The central insight from the project is:
 
@@ -645,7 +679,7 @@ This shifts the focus from simply measuring physician willingness to understandi
 
 ---
 
-## Project Status
+## 22. Project Status
 
 **Portfolio Case Study — Completed**
 
