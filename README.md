@@ -375,7 +375,7 @@ Project Manager | PMO | Healthcare | Business Analysis | Data Analytics
 
 **GitHub:** [Project Management Portfolio](https://github.com/debapriya-pm/Project-Management-Portfolio)
 
-**LinkedIn:(https://www.linkedin.com/in/debapriya-mondal-pmp%C2%AE-csm%C2%AE-91bb82215/)
+**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/debapriya-mondal-pmp%C2%AE-csm%C2%AE-91bb82215/)
 
 ---
 
