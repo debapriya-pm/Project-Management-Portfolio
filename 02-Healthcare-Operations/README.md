@@ -8,6 +8,7 @@
 A healthcare operations analytics project designed to evaluate prior authorization workload, authorization outcomes, denial patterns, documentation issues, and SLA performance.
 
 The analysis uses Power BI and DAX to transform operational data into an executive-level dashboard that supports process improvement and healthcare operations decision-making.
+> **Note:** This portfolio project uses a non-production dataset for analytical and process-improvement demonstration purposes.
 
 ## Business Problem
 
