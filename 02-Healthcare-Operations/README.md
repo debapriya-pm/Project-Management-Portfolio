@@ -22,8 +22,6 @@ The objective of this project was to identify operational bottlenecks and opport
 - Process Improvement
 - Project Management
 
-## Dashboard
-
 ![Healthcare Prior Authorization Operations Dashboard](healthcare-prior-authorization-dashboard.png)
 
 ## Key Findings
