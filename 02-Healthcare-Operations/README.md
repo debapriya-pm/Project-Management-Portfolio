@@ -1,4 +1,7 @@
-# Healthcare Prior Authorization Operations Dashboard
+# Prior Authorization Process Improvement Project
+## Dashboard Preview
+
+![Healthcare Prior Authorization Operations Dashboard](healthcare-prior-authorization-dashboard.png)
 
 ## Project Overview
 
