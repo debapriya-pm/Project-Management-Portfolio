@@ -1,4 +1,3 @@
-```markdown
 # DAX & KPI Documentation
 
 ## Purpose
@@ -16,13 +15,16 @@ Total Cases =
 COUNTROWS(prior_authorization_operations_dataset)
 ```
 
-**What it measures:**  
+**What it measures:**
+
 The total number of prior authorization cases in the dataset.
 
-**Result:**  
+**Result:**
+
 1,500 cases
 
-**Why it matters:**  
+**Why it matters:**
+
 Establishes the overall operational workload and provides the baseline for calculating other performance indicators.
 
 ---
@@ -37,13 +39,16 @@ CALCULATE(
 )
 ```
 
-**What it measures:**  
+**What it measures:**
+
 The number of prior authorization cases that received an approval decision.
 
-**Result:**  
+**Result:**
+
 1,207 cases
 
-**Why it matters:**  
+**Why it matters:**
+
 Provides visibility into successful authorization outcomes and allows approval performance to be compared with denied cases and overall workload.
 
 ---
@@ -58,13 +63,16 @@ CALCULATE(
 )
 ```
 
-**What it measures:**  
+**What it measures:**
+
 The number of prior authorization cases that were denied.
 
-**Result:**  
+**Result:**
+
 279 cases
 
-**Why it matters:**  
+**Why it matters:**
+
 Highlights the volume of cases requiring attention and supports further analysis of denial patterns and underlying reasons.
 
 ---
@@ -83,13 +91,16 @@ DIVIDE(
 )
 ```
 
-**What it measures:**  
+**What it measures:**
+
 The percentage of prior authorization cases that exceeded their defined service-level target.
 
-**Result:**  
+**Result:**
+
 64.9%
 
-**Why it matters:**  
+**Why it matters:**
+
 Provides a direct indicator of operational performance and identifies potential pressure within the authorization workflow.
 
 ---
@@ -105,13 +116,16 @@ DIVIDE(
 )
 ```
 
-**What it measures:**  
+**What it measures:**
+
 The percentage of all prior authorization cases that resulted in a denial.
 
-**Result:**  
+**Result:**
+
 18.6%
 
-**Why it matters:**  
+**Why it matters:**
+
 Provides a high-level view of denial frequency and supports comparisons across specialties and other operational segments.
 
 ---
@@ -148,7 +162,6 @@ Together, these measures provide an executive-level view of both **authorization
 
 The KPI analysis indicates that a high approval rate does not necessarily mean the authorization process is operationally efficient.
 
-Although **80.5% of cases were approved**, **64.9% breached the defined SLA**.
+Although **80.5% of cases were approved, 64.9% breached the defined SLA.**
 
 This highlights the importance of evaluating both **outcome metrics** and **process-performance metrics** when assessing prior authorization operations.
-```
