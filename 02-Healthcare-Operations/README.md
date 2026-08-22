@@ -55,11 +55,7 @@ This could help reduce administrative rework, improve turnaround time, reduce do
 
 ## Project Deliverables
 
-- Power BI healthcare operations dashboard
-- KPI and DAX documentation
-- Operational performance analysis
-- Process improvement recommendation
-
-### Technical Documentation & Analysis
-
-[View DAX & KPI Documentation](02-DAX-KPI-Documentation.md)
+- [Power BI healthcare operations dashboard](healthcare-prior-authorization-dashboard.png)
+- [KPI and DAX documentation](02-DAX-KPI-Documentation.md)
+- [Operational performance analysis](03-Operational-Performance-Analysis.md)
+- [Process improvement recommendation](04-Process-Improvement-Recommendation.md)
