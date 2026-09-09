@@ -1,0 +1,21 @@
+Client_ID,Client_Name,Client_Type,Therapeutic_Area,Region
+C001,Asterion Pharma,Healthcare Provider,Cardiology,APAC
+C002,BluePeak Therapeutics,Pharmaceutical,Respiratory,Middle East & Africa
+C003,CuraNova Health,MedTech,Neurology,Europe
+C004,DeltaBio,Healthcare Provider,Diabetes,Europe
+C005,EvoMedica,Pharmaceutical,Oncology,Europe
+C006,Foresight Pharma,MedTech,Rare Disease,North America
+C007,Genevia Therapeutics,Healthcare Provider,Immunology,North America
+C008,HelixCare,Healthcare Provider,Rare Disease,Europe
+C009,InnovaRx,Pharmaceutical,Neurology,North America
+C010,Juno Health,Biotech,Respiratory,APAC
+C011,KairoBio,Pharmaceutical,Respiratory,Europe
+C012,Lumena Pharma,MedTech,Cardiology,APAC
+C013,MedAxis,Biotech,Diabetes,APAC
+C014,Nexa Therapeutics,Healthcare Provider,Immunology,Europe
+C015,Orion Health Sciences,Pharmaceutical,Immunology,APAC
+C016,Pinnacle Pharma,Pharmaceutical,Oncology,APAC
+C017,QuantaBio,Biotech,Immunology,Europe
+C018,Rivermark Health,Pharmaceutical,Cardiology,North America
+C019,Solara Therapeutics,Healthcare Provider,Respiratory,APAC
+C020,Vertexa Health,Biotech,Neurology,North America
