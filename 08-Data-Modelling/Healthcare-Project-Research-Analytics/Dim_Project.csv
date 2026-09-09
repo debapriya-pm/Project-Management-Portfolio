@@ -1,0 +1,121 @@
+Project_ID,Project_Name,Project_Type,Research_Method,Client_ID,Project_Manager_ID,Start_Date,End_Date,Status,Priority,Budget
+P0001,Treatment Pathway Study – Project 001,Treatment Pathway Study,Qualitative,C002,E009,2026-05-09,2026-11-05,On Hold,Medium,77572
+P0002,Treatment Pathway Study – Project 002,Treatment Pathway Study,Qualitative,C001,E029,2025-08-05,2026-01-02,Completed,Low,218079
+P0003,HCP Satisfaction Study – Project 003,HCP Satisfaction Study,Quantitative,C019,E025,2025-05-27,2025-11-13,On Hold,Low,124844
+P0004,Physician Market Research – Project 004,Physician Market Research,Quantitative,C004,E040,2025-01-26,2025-07-17,Completed,Medium,26012
+P0005,Prior Authorization Research – Project 005,Prior Authorization Research,Quantitative,C017,E029,2025-01-04,2025-02-16,At Risk,Medium,239137
+P0006,Prior Authorization Research – Project 006,Prior Authorization Research,Quantitative,C001,E040,2025-07-14,2025-09-20,In Progress,Medium,140792
+P0007,Patient Journey Study – Project 007,Patient Journey Study,Qualitative,C004,E036,2026-04-27,2026-09-13,In Progress,Medium,84170
+P0008,CRM Implementation – Project 008,CRM Implementation,Operational,C003,E028,2025-09-30,2026-01-27,Completed,Medium,177390
+P0009,Competitive Intelligence – Project 009,Competitive Intelligence,Mixed Methods,C015,E040,2026-04-10,2026-05-17,At Risk,Medium,144387
+P0010,Patient Journey Study – Project 010,Patient Journey Study,Qualitative,C013,E028,2025-02-22,2025-04-07,Completed,High,31661
+P0011,Patient Experience Study – Project 011,Patient Experience Study,Qualitative,C010,E050,2025-02-18,2025-06-06,Completed,High,195921
+P0012,Patient Journey Study – Project 012,Patient Journey Study,Qualitative,C005,E050,2026-03-10,2026-07-11,Completed,Medium,115305
+P0013,Patient Experience Study – Project 013,Patient Experience Study,Qualitative,C002,E029,2025-02-25,2025-04-21,In Progress,High,182459
+P0014,HCP Satisfaction Study – Project 014,HCP Satisfaction Study,Quantitative,C012,E036,2025-01-28,2025-03-24,Completed,High,226518
+P0015,Physician Market Research – Project 015,Physician Market Research,Quantitative,C005,E025,2025-07-30,2025-09-17,At Risk,Low,162388
+P0016,Treatment Pathway Study – Project 016,Treatment Pathway Study,Qualitative,C012,E040,2026-04-26,2026-08-19,In Progress,Low,176113
+P0017,Patient Journey Study – Project 017,Patient Journey Study,Qualitative,C014,E036,2025-12-25,2026-01-25,Completed,Medium,82296
+P0018,Prior Authorization Research – Project 018,Prior Authorization Research,Quantitative,C017,E050,2025-02-21,2025-06-17,Completed,Low,78473
+P0019,Patient Journey Study – Project 019,Patient Journey Study,Qualitative,C010,E025,2026-03-12,2026-06-21,Completed,Low,118375
+P0020,Treatment Pathway Study – Project 020,Treatment Pathway Study,Qualitative,C001,E040,2026-03-15,2026-06-23,In Progress,High,216876
+P0021,Patient Experience Study – Project 021,Patient Experience Study,Qualitative,C006,E028,2026-02-21,2026-07-03,On Hold,Medium,142943
+P0022,Competitive Intelligence – Project 022,Competitive Intelligence,Mixed Methods,C018,E023,2026-04-15,2026-08-01,Completed,Medium,103307
+P0023,HCP Satisfaction Study – Project 023,HCP Satisfaction Study,Quantitative,C011,E023,2025-05-05,2025-09-21,On Hold,High,200413
+P0024,HCP Satisfaction Study – Project 024,HCP Satisfaction Study,Quantitative,C013,E029,2026-05-25,2026-10-17,Completed,Medium,217003
+P0025,CRM Implementation – Project 025,CRM Implementation,Operational,C010,E025,2025-06-16,2025-12-01,On Hold,Medium,228070
+P0026,Patient Experience Study – Project 026,Patient Experience Study,Qualitative,C004,E009,2026-02-22,2026-07-22,At Risk,Medium,92262
+P0027,Competitive Intelligence – Project 027,Competitive Intelligence,Mixed Methods,C018,E028,2025-10-29,2026-02-14,In Progress,High,184669
+P0028,Physician Market Research – Project 028,Physician Market Research,Quantitative,C016,E036,2026-02-10,2026-05-25,In Progress,High,157822
+P0029,CRM Implementation – Project 029,CRM Implementation,Operational,C020,E025,2025-11-23,2026-01-27,On Hold,Low,126019
+P0030,Patient Journey Study – Project 030,Patient Journey Study,Qualitative,C018,E050,2025-12-01,2026-03-31,Completed,High,114311
+P0031,Drug Adoption Study – Project 031,Drug Adoption Study,Quantitative,C006,E040,2025-11-17,2026-01-07,Completed,High,50774
+P0032,Competitive Intelligence – Project 032,Competitive Intelligence,Mixed Methods,C006,E029,2026-02-10,2026-07-30,Completed,High,86835
+P0033,Drug Adoption Study – Project 033,Drug Adoption Study,Quantitative,C005,E050,2026-01-20,2026-06-26,In Progress,Medium,148675
+P0034,Patient Experience Study – Project 034,Patient Experience Study,Qualitative,C019,E028,2025-03-11,2025-04-28,In Progress,Medium,224476
+P0035,HCP Satisfaction Study – Project 035,HCP Satisfaction Study,Quantitative,C012,E023,2026-03-06,2026-08-01,In Progress,Medium,219927
+P0036,Drug Adoption Study – Project 036,Drug Adoption Study,Quantitative,C010,E009,2025-10-06,2025-11-22,On Hold,High,67208
+P0037,Market Access Study – Project 037,Market Access Study,Mixed Methods,C020,E050,2025-06-18,2025-11-03,Completed,High,177848
+P0038,Prior Authorization Research – Project 038,Prior Authorization Research,Quantitative,C013,E050,2025-09-25,2025-11-07,In Progress,Low,44082
+P0039,Patient Experience Study – Project 039,Patient Experience Study,Qualitative,C019,E036,2026-05-18,2026-08-29,Completed,Medium,176878
+P0040,CRM Implementation – Project 040,CRM Implementation,Operational,C020,E009,2026-03-22,2026-07-29,Completed,Medium,101933
+P0041,Treatment Pathway Study – Project 041,Treatment Pathway Study,Qualitative,C002,E025,2026-03-10,2026-07-28,In Progress,Medium,126216
+P0042,Competitive Intelligence – Project 042,Competitive Intelligence,Mixed Methods,C008,E009,2025-08-29,2025-11-30,At Risk,Medium,186469
+P0043,Patient Experience Study – Project 043,Patient Experience Study,Qualitative,C015,E009,2026-02-12,2026-07-31,In Progress,High,120600
+P0044,CRM Implementation – Project 044,CRM Implementation,Operational,C017,E023,2025-07-20,2025-12-13,Completed,Medium,206672
+P0045,Drug Adoption Study – Project 045,Drug Adoption Study,Quantitative,C003,E029,2025-12-23,2026-02-22,In Progress,Medium,145056
+P0046,HCP Satisfaction Study – Project 046,HCP Satisfaction Study,Quantitative,C007,E009,2025-11-29,2026-04-09,Completed,Medium,249718
+P0047,Patient Journey Study – Project 047,Patient Journey Study,Qualitative,C011,E050,2025-05-10,2025-09-27,At Risk,Low,168604
+P0048,Market Access Study – Project 048,Market Access Study,Mixed Methods,C016,E028,2025-05-19,2025-08-07,In Progress,Medium,91681
+P0049,Treatment Pathway Study – Project 049,Treatment Pathway Study,Qualitative,C003,E025,2025-02-01,2025-06-22,Completed,Medium,199440
+P0050,HCP Satisfaction Study – Project 050,HCP Satisfaction Study,Quantitative,C013,E029,2025-03-14,2025-08-26,Completed,Low,116787
+P0051,Patient Journey Study – Project 051,Patient Journey Study,Qualitative,C006,E040,2025-08-14,2026-01-14,Completed,Medium,145188
+P0052,CRM Implementation – Project 052,CRM Implementation,Operational,C005,E025,2025-09-06,2026-01-29,At Risk,Low,55784
+P0053,Treatment Pathway Study – Project 053,Treatment Pathway Study,Qualitative,C011,E009,2025-03-27,2025-07-30,Completed,Medium,51852
+P0054,Competitive Intelligence – Project 054,Competitive Intelligence,Mixed Methods,C009,E009,2025-08-05,2025-10-14,In Progress,Low,154346
+P0055,Drug Adoption Study – Project 055,Drug Adoption Study,Quantitative,C013,E040,2025-11-11,2026-04-10,In Progress,Medium,67005
+P0056,HCP Satisfaction Study – Project 056,HCP Satisfaction Study,Quantitative,C007,E009,2025-05-01,2025-07-24,In Progress,Medium,249456
+P0057,Prior Authorization Research – Project 057,Prior Authorization Research,Quantitative,C017,E036,2025-06-25,2025-10-13,Completed,Medium,217527
+P0058,Drug Adoption Study – Project 058,Drug Adoption Study,Quantitative,C002,E028,2025-07-11,2025-09-26,At Risk,High,182698
+P0059,Drug Adoption Study – Project 059,Drug Adoption Study,Quantitative,C018,E040,2025-09-20,2025-12-06,Completed,Medium,190308
+P0060,Drug Adoption Study – Project 060,Drug Adoption Study,Quantitative,C001,E009,2025-07-10,2025-09-01,In Progress,Low,158923
+P0061,Treatment Pathway Study – Project 061,Treatment Pathway Study,Qualitative,C015,E050,2026-01-19,2026-07-13,In Progress,Medium,38565
+P0062,Patient Experience Study – Project 062,Patient Experience Study,Qualitative,C007,E036,2025-06-20,2025-08-11,In Progress,High,113283
+P0063,Competitive Intelligence – Project 063,Competitive Intelligence,Mixed Methods,C008,E028,2025-08-14,2025-09-26,At Risk,Medium,136555
+P0064,Competitive Intelligence – Project 064,Competitive Intelligence,Mixed Methods,C001,E023,2025-07-17,2026-01-04,Completed,High,230943
+P0065,Treatment Pathway Study – Project 065,Treatment Pathway Study,Qualitative,C015,E050,2025-04-06,2025-07-28,In Progress,High,74385
+P0066,Patient Journey Study – Project 066,Patient Journey Study,Qualitative,C004,E025,2025-12-23,2026-03-29,Completed,Low,136806
+P0067,Competitive Intelligence – Project 067,Competitive Intelligence,Mixed Methods,C014,E028,2025-05-03,2025-09-21,Completed,Medium,102415
+P0068,Physician Market Research – Project 068,Physician Market Research,Quantitative,C015,E028,2025-06-04,2025-08-30,Completed,Medium,55232
+P0069,HCP Satisfaction Study – Project 069,HCP Satisfaction Study,Quantitative,C017,E023,2026-02-17,2026-04-07,Completed,Medium,48179
+P0070,Prior Authorization Research – Project 070,Prior Authorization Research,Quantitative,C015,E028,2026-05-09,2026-09-26,Completed,High,107210
+P0071,Market Access Study – Project 071,Market Access Study,Mixed Methods,C007,E023,2025-12-15,2026-02-09,Completed,High,43544
+P0072,Patient Journey Study – Project 072,Patient Journey Study,Qualitative,C015,E009,2026-04-22,2026-08-13,Completed,Medium,40112
+P0073,Patient Journey Study – Project 073,Patient Journey Study,Qualitative,C017,E025,2026-03-21,2026-09-10,In Progress,Medium,103945
+P0074,Competitive Intelligence – Project 074,Competitive Intelligence,Mixed Methods,C007,E009,2025-09-08,2026-02-26,In Progress,Low,70445
+P0075,Market Access Study – Project 075,Market Access Study,Mixed Methods,C003,E028,2026-02-05,2026-04-30,Completed,Medium,149832
+P0076,Market Access Study – Project 076,Market Access Study,Mixed Methods,C018,E040,2025-06-20,2025-11-14,Completed,Medium,28975
+P0077,Treatment Pathway Study – Project 077,Treatment Pathway Study,Qualitative,C003,E023,2025-08-28,2025-12-28,Completed,Medium,92908
+P0078,Patient Journey Study – Project 078,Patient Journey Study,Qualitative,C012,E009,2025-10-06,2026-01-16,In Progress,Low,126988
+P0079,Treatment Pathway Study – Project 079,Treatment Pathway Study,Qualitative,C005,E009,2026-05-15,2026-07-05,Completed,Medium,241708
+P0080,Treatment Pathway Study – Project 080,Treatment Pathway Study,Qualitative,C003,E029,2026-03-18,2026-06-12,Completed,Low,167772
+P0081,Prior Authorization Research – Project 081,Prior Authorization Research,Quantitative,C016,E025,2025-09-12,2026-01-18,Completed,Medium,223162
+P0082,Patient Journey Study – Project 082,Patient Journey Study,Qualitative,C003,E028,2025-12-06,2026-06-02,Completed,Low,102241
+P0083,Patient Journey Study – Project 083,Patient Journey Study,Qualitative,C014,E009,2025-04-16,2025-05-16,Completed,High,126185
+P0084,Drug Adoption Study – Project 084,Drug Adoption Study,Quantitative,C014,E025,2026-02-23,2026-07-11,In Progress,Medium,119586
+P0085,Prior Authorization Research – Project 085,Prior Authorization Research,Quantitative,C002,E028,2025-10-15,2026-03-21,In Progress,Medium,224664
+P0086,Patient Journey Study – Project 086,Patient Journey Study,Qualitative,C004,E028,2025-10-05,2026-03-27,In Progress,Medium,240823
+P0087,HCP Satisfaction Study – Project 087,HCP Satisfaction Study,Quantitative,C016,E029,2026-02-03,2026-05-07,In Progress,Medium,241526
+P0088,Patient Journey Study – Project 088,Patient Journey Study,Qualitative,C011,E040,2025-11-26,2026-01-12,In Progress,Low,194192
+P0089,Prior Authorization Research – Project 089,Prior Authorization Research,Quantitative,C003,E028,2025-02-07,2025-04-18,Completed,Low,138200
+P0090,Physician Market Research – Project 090,Physician Market Research,Quantitative,C020,E040,2025-05-30,2025-11-04,In Progress,High,146693
+P0091,Patient Experience Study – Project 091,Patient Experience Study,Qualitative,C006,E029,2025-04-02,2025-09-11,In Progress,Medium,245615
+P0092,Physician Market Research – Project 092,Physician Market Research,Quantitative,C001,E025,2026-01-18,2026-05-24,Completed,Medium,89021
+P0093,Patient Journey Study – Project 093,Patient Journey Study,Qualitative,C019,E023,2025-01-19,2025-03-08,In Progress,Medium,103009
+P0094,Patient Journey Study – Project 094,Patient Journey Study,Qualitative,C001,E025,2025-04-16,2025-06-03,Completed,High,226825
+P0095,Competitive Intelligence – Project 095,Competitive Intelligence,Mixed Methods,C012,E029,2025-11-07,2026-02-17,In Progress,High,111922
+P0096,Physician Market Research – Project 096,Physician Market Research,Quantitative,C020,E023,2025-12-28,2026-04-25,In Progress,Medium,77897
+P0097,HCP Satisfaction Study – Project 097,HCP Satisfaction Study,Quantitative,C012,E050,2025-09-19,2025-10-23,At Risk,Medium,151106
+P0098,Prior Authorization Research – Project 098,Prior Authorization Research,Quantitative,C012,E028,2026-03-24,2026-08-04,At Risk,Low,98202
+P0099,Prior Authorization Research – Project 099,Prior Authorization Research,Quantitative,C008,E040,2026-04-23,2026-08-13,In Progress,Medium,225447
+P0100,CRM Implementation – Project 100,CRM Implementation,Operational,C003,E036,2025-03-10,2025-04-10,In Progress,Low,229540
+P0101,Competitive Intelligence – Project 101,Competitive Intelligence,Mixed Methods,C012,E025,2026-05-11,2026-06-24,In Progress,Medium,93852
+P0102,Market Access Study – Project 102,Market Access Study,Mixed Methods,C018,E023,2025-11-16,2026-02-22,Completed,Medium,144147
+P0103,Competitive Intelligence – Project 103,Competitive Intelligence,Mixed Methods,C002,E036,2025-11-27,2026-04-15,On Hold,High,246399
+P0104,Market Access Study – Project 104,Market Access Study,Mixed Methods,C018,E025,2025-02-19,2025-07-23,In Progress,Medium,192022
+P0105,Treatment Pathway Study – Project 105,Treatment Pathway Study,Qualitative,C009,E023,2025-11-20,2026-02-23,Completed,Low,73516
+P0106,Prior Authorization Research – Project 106,Prior Authorization Research,Quantitative,C011,E050,2026-01-13,2026-03-28,Completed,Low,157918
+P0107,Patient Experience Study – Project 107,Patient Experience Study,Qualitative,C004,E028,2025-10-30,2026-04-24,On Hold,Low,164475
+P0108,Competitive Intelligence – Project 108,Competitive Intelligence,Mixed Methods,C013,E009,2025-02-13,2025-05-23,Completed,High,172024
+P0109,Patient Experience Study – Project 109,Patient Experience Study,Qualitative,C004,E028,2025-09-30,2025-12-16,Completed,Medium,30627
+P0110,Competitive Intelligence – Project 110,Competitive Intelligence,Mixed Methods,C006,E028,2026-05-02,2026-08-06,Completed,High,92361
+P0111,Prior Authorization Research – Project 111,Prior Authorization Research,Quantitative,C015,E040,2026-01-12,2026-02-12,Completed,High,217288
+P0112,Physician Market Research – Project 112,Physician Market Research,Quantitative,C002,E036,2025-03-13,2025-05-27,Completed,Medium,79308
+P0113,HCP Satisfaction Study – Project 113,HCP Satisfaction Study,Quantitative,C009,E023,2026-05-15,2026-08-30,In Progress,Medium,92431
+P0114,Patient Journey Study – Project 114,Patient Journey Study,Qualitative,C012,E023,2026-05-14,2026-10-29,Completed,Medium,97561
+P0115,Competitive Intelligence – Project 115,Competitive Intelligence,Mixed Methods,C003,E029,2025-03-30,2025-08-18,On Hold,Low,64912
+P0116,Drug Adoption Study – Project 116,Drug Adoption Study,Quantitative,C006,E009,2026-02-21,2026-07-18,On Hold,Medium,59974
+P0117,Drug Adoption Study – Project 117,Drug Adoption Study,Quantitative,C007,E025,2025-07-31,2025-11-20,Completed,Low,103078
+P0118,Drug Adoption Study – Project 118,Drug Adoption Study,Quantitative,C014,E023,2025-11-05,2025-12-21,Completed,High,221721
+P0119,CRM Implementation – Project 119,CRM Implementation,Operational,C020,E009,2025-08-20,2025-11-17,In Progress,High,25345
+P0120,Prior Authorization Research – Project 120,Prior Authorization Research,Quantitative,C017,E050,2026-02-11,2026-08-10,Completed,Medium,88730
