@@ -159,11 +159,11 @@ The analytical page includes:
 
 ### Data Model
 
-![Power BI Data Model](Screenshots/data-model.png)
+![Power BI Data Model](Data_Modelling_PowerBI.png)
 
 ### Analytical View
 
-![Power BI Dashboard](Screenshots/dashboard.png)
+![Power BI Dashboard](PowerBI_Dashboard.png)
 
 ---
 
