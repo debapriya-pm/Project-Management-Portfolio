@@ -102,14 +102,10 @@ projects (1) ───────< milestones (many)
 
 ## SQL Concepts Demonstrated
 
-- `INNER JOIN`
-- `LEFT JOIN`
+- INNER JOIN
+- LEFT JOIN
 - Multiple-table JOINs
-- `COUNT()`
-- `GROUP BY`
-- `HAVING`
-- `ORDER BY`
-- Foreign keys
+- COUNT and GROUP BY
 - Composite primary keys
 - Relational data modelling
 
