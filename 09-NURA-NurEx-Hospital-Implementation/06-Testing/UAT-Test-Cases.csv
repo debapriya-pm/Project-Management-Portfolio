@@ -1,0 +1,11 @@
+Test_ID,Scenario,Expected_Result,Severity,Result,Signoff
+TC-001,Authorized nurse accesses approved content,Content loads correctly,Critical,Pass,Nursing
+TC-002,User completes patient-specific workflow,Expected workflow completes,Critical,Pass,Clinical
+TC-003,User reviews safety/compatibility information,Expected information displays,Critical,Pass,Clinical
+TC-004,Pharmacy reviews institutional formulary,Approved content visible/manageable,High,Pass,Pharmacy
+TC-005,Administrator reviews usage,Agreed metrics visible,Medium,Pass,Admin
+TC-006,Role access test,Only permitted functions visible,Critical,Pass,IT
+TC-007,Security/privacy checklist,Controls meet pilot requirements,Critical,Pass,IT
+TC-008,Connectivity/access test,Target users can access,High,Pass,IT
+TC-009,Training readiness,Materials and user list complete,High,Pass,Training
+TC-010,Clinical change-control test,Approved change is traceable,High,Pass,Pharmacy
