@@ -1,23 +1,22 @@
-# NURA Medical — NurEx Hospital Implementation Simulation
+# Hospital Clinical Platform Implementation Simulation
 
-> **Portfolio simulation — not a NURA internal project.** This independent case study uses public information about NURA Medical/NurEx. All client names, metrics, requirements, schedules and data are synthetic.
+> **Portfolio simulation — not a real client implementation.** This independent case study uses a fictional hospital, synthetic project data and a generic clinical software platform. No company-specific or proprietary information is used.
 
 ## Executive Summary
-Simulate a Project & Operations Associate reporting to the COO and owning a six-week NurEx implementation at a fictional Canadian hospital. The project covers contract handoff, discovery, requirements, workflow mapping, configuration, technical readiness, UAT, training, go-live, hypercare and benefits review.
+This simulation models an Implementation Project Manager taking a fictional hospital from signed agreement through discovery, requirements, workflow design, configuration, testing, training, go-live, hypercare and benefits review.
 
-## Product context
-Public NURA materials describe NurEx as a medication-safety/clinical decision-support platform for acute-care settings, including patient-specific dosing calculations, preparation guidance, safety/compatibility information, customizable institutional formularies, EHR integration, training, dashboards and quality/audit capabilities.
+The solution is a **clinical medication-management and decision-support platform** intended to help authorized hospital users access structured medication information, institution-configured content and workflow guidance.
 
-## Simulated client
+## Simulated Client
 **St. Laurent Regional Hospital (SLRH)** — fictional 250-bed Canadian hospital.
 
-## Business problem
-The ED relies on multiple information sources for medication preparation. The hospital wants a controlled digital workflow that improves access and consistency while preserving clinical governance.
+## Business Problem
+The Emergency Department relies on multiple information sources for medication preparation and verification. The hospital wants a controlled digital workflow that improves consistency, access to approved information and operational visibility while preserving clinical governance.
 
-## Project objective
-Implement NurEx for the ED within six weeks, with validated institutional content, technical readiness, clinical UAT, trained users, controlled cutover and hypercare.
+## Project Objective
+Implement the clinical platform for the ED within six weeks, with validated institutional content, technical readiness, clinical UAT, trained users, controlled cutover and structured hypercare.
 
-## Simulated success criteria
+## Simulated Success Criteria
 | Area | Target |
 |---|---:|
 | Go-live | End of Week 6 |
@@ -28,30 +27,42 @@ Implement NurEx for the ED within six weeks, with validated institutional conten
 | Training competency | >=90% |
 | 30-day adoption | >=80% |
 
-## Lifecycle
-**Initiate → Discover → Plan → Configure → Validate → Train → Go-live → Hypercare → Close**
+## Implementation Lifecycle
+**Initiate → Discover → Requirements → Plan → Configure → Validate → Train → Go-live → Hypercare → Close**
 
-## Key PM responsibilities demonstrated
-- turn an ambiguous goal into a plan
-- coordinate clinical, pharmacy, nursing, IT and product stakeholders
-- maintain requirements and dependencies
-- manage RAID and scope change
-- coordinate UAT and training
-- prepare go/no-go evidence
-- communicate concise status to the COO
-- manage post-go-live stabilization
+## Key PM Responsibilities Demonstrated
+- translate an ambiguous business objective into an implementation plan
+- coordinate clinical, pharmacy, nursing, IT, vendor and executive stakeholders
+- document requirements and maintain traceability
+- map current-state and future-state workflows
+- manage risks, assumptions, issues, decisions and dependencies
+- coordinate configuration and UAT
+- manage training and organizational readiness
+- prepare evidence-based go/no-go decisions
+- control scope changes
+- communicate concise executive status
+- manage post-go-live stabilization and adoption
 
-## Clinical safety boundary
-This simulation does not create or validate real dosing guidance. Clinical content is represented only as configuration/test placeholders and would require qualified clinical/pharmacy approval.
+## Clinical Safety Boundary
+This simulation does not create, validate or recommend real clinical dosing guidance. Clinical content is represented only as configuration and test placeholders and would require qualified clinical and pharmacy approval in a real implementation.
 
-## Interview positioning
-> “I built an end-to-end implementation simulation based on publicly available information about NURA Medical and NurEx. The hospital, data and project metrics are synthetic. I used it to work through the implementation lifecycle and understand the responsibilities, dependencies and decision points an implementation PM would manage.”
+## Interview Positioning
+> “I built an end-to-end hospital implementation simulation to understand how an implementation PM manages a healthcare software rollout. The hospital, platform, users, metrics and project data are synthetic. I worked through discovery, requirements, workflow mapping, configuration, UAT, training, change control, go-live readiness and hypercare so I could understand the lifecycle and the PM responsibilities at each stage.”
 
-## Sources
-- https://nuramedical.com/getting-started/
-- https://nuramedical.com/discover-nurex/
-- https://nuramedical.com/nurex-by-role/
-- https://nuramedical.com/mobile-app/
-- https://nuramedical.com/medication-management/
-- https://nuramedical.com/terms-of-service/
-- https://www.medteq.ca/en/medteq-mobilizes-the-healthcare-ecosystem-to-test-7-innovations-in-real-world-settings/
+## Repository Structure
+- **01-Initiation** — Business Case and Project Charter
+- **02-Discovery** — Current/Future State, Stakeholders
+- **03-Requirements** — Requirements Register and RTM
+- **04-Planning** — WBS, RAID and Communication Plan
+- **05-Configuration** — Configuration Log
+- **06-Testing** — UAT Test Cases
+- **07-Training** — Training Matrix
+- **08-Go-Live** — Cutover and Go/No-Go
+- **09-Hypercare** — Support and Adoption
+- **10-Analytics** — SQL and DAX
+- **11-Change-Management** — Change Request
+- **12-Executive-Reporting** — Weekly Status
+- **13-Closure** — Lessons Learned
+- **14-Interview-Story** — Interview Narrative
+- **15-Project-Management-Concepts** — Implementation Glossary
+- **16-Sources** — General reference notes
