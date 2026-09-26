@@ -5,7 +5,7 @@ Pharmacy Lead,High,High,Validated formulary,2x weekly workstream
 Nursing Lead,High,High,Training/readiness,Weekly readiness review
 Clinical Super Users,Medium,High,Workflow fit,UAT/workshops
 Hospital IT Lead,High,Medium,Access/security/integration,Technical meetings
-NURA Clinical Lead,High,High,Clinical safety,Validation sessions
-NURA Product Lead,Medium,High,Configuration feasibility,Configuration stand-ups
-NURA COO,High,Medium,Early escalation,Weekly status
+Vendor Clinical Lead,High,High,Clinical safety,Validation sessions
+Vendor Product/Implementation Lead,Medium,High,Configuration feasibility,Configuration stand-ups
+Vendor Executive Sponsor,High,Medium,Early escalation,Weekly status
 ED Nurses,Low,High,Simple workflow/training,Training + feedback
