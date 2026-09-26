@@ -1,0 +1,8 @@
+ID,Type,Description,Impact,Probability,Owner,Action,Status
+R-001,Risk,Pharmacy validation delay,High,Medium,Pharmacy,Prioritize high-risk/high-volume set,Open
+R-002,Risk,EHR integration unavailable for pilot,Medium,High,IT,Define approved standalone pilot workflow; phase 2 integration,Mitigating
+R-003,Risk,Low training completion,High,Medium,Nursing,Train-the-trainer and shift sessions,Open
+R-004,Risk,Clinical content discrepancy in UAT,Very High,Low,Clinical,Hold affected content until validated,Open
+I-001,Issue,Some test users cannot access environment,Medium,Medium,IT,Correct roles and retest,Closed
+A-001,Assumption,Sponsor available weekly,Medium,Medium,PM,Confirm recurring meeting,Valid
+D-001,Decision,ED pilot rather than enterprise rollout,High,High,COO/Sponsor,Contain scope and define expansion criteria,Approved
