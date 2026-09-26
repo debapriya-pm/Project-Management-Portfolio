@@ -1,0 +1,11 @@
+Req_ID,Design_Component,UAT_Test,Owner,Status
+FR-001,Institutional formulary,TC-001,Pharmacy,Passed
+FR-002,Medication workflow,TC-002,Clinical,Passed
+FR-003,Safety/compatibility,TC-003,Clinical,Passed
+FR-004,Formulary management,TC-004,Pharmacy,Passed
+FR-005,Admin reporting,TC-005,Product,Passed
+NFR-001,Role/access,TC-006,IT,Passed
+NFR-002,Security/privacy,TC-007,IT,Passed
+NFR-003,Availability,TC-008,IT,Passed
+NFR-004,Training package,TC-009,Training,Passed
+NFR-005,Change control,TC-010,Pharmacy,Passed
