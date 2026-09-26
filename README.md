@@ -71,6 +71,14 @@ An end-to-end healthcare market research and project-management case study demon
 ---
 
 ## Portfolio Projects
+### 02 | NURA Medical — NurEx Hospital Implementation Simulation
+
+**Healthcare Technology Implementation + Project Management + Business Analysis + UAT + Training + Go-Live**
+
+An end-to-end implementation simulation based on publicly available information about NURA Medical's NurEx medication-safety platform. The fictional hospital implementation covers discovery, requirements, stakeholder management, workflow mapping, configuration, technical readiness, clinical UAT, training, change control, go-live governance, hypercare and benefits review.
+
+**[View NURA NurEx Hospital Implementation Simulation →](09-NURA-NurEx-Hospital-Implementation/)**
+
 
 ### 01 | Healthcare Market Research
 
