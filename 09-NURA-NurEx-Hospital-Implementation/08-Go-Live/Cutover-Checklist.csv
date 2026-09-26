@@ -1,0 +1,10 @@
+Step,Activity,Owner,Timing,Exit_Criteria
+1,Freeze configuration,Product,T-1 day,Approved baseline locked
+2,Confirm user access,IT,T-1 day,Target users authenticate
+3,Confirm clinical content,Pharmacy,T-1 day,Final approval recorded
+4,Confirm support roster,PM,T-1 day,Named responders available
+5,Communicate go-live,PM,T-1 day,Stakeholders notified
+6,Activate production access,Technical,Go-live,Access successful
+7,Run smoke tests,UAT,Go-live,All smoke tests pass
+8,Open hypercare channel,PM,Go-live,Escalation active
+9,Monitor first shift,PM + Clinical,Go-live,Issues triaged
