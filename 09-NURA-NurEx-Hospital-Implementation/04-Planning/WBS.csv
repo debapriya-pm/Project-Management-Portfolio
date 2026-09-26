@@ -1,0 +1,16 @@
+WBS,Workstream,Task,Duration_Days,Dependency,Owner
+1,Initiation,Kickoff,1,,PM
+2,Discovery,Stakeholder interviews,3,1,PM
+3,Discovery,Current-state mapping,2,2,PM
+4,Requirements,Requirements baseline,3,2,PM
+5,Technical,Access/security assessment,3,2,IT
+6,Clinical,Priority formulary validation,7,4,Pharmacy
+7,Configuration,Site configuration,5,4,Product
+8,Testing,Test preparation,3,4,UAT
+9,Testing,Clinical/UAT execution,5,6|7|8,UAT
+10,Training,Training materials,3,4,Training
+11,Training,Train-the-trainer,2,9|10,Training
+12,Readiness,Go-live readiness,2,9|11,PM
+13,Deployment,Cutover/go-live,1,12,PM
+14,Hypercare,Hypercare,10,13,PM
+15,Closure,Benefits review,2,14,PM
