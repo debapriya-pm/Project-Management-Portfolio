@@ -1,0 +1,7 @@
+Config_ID,Area,Change,Validator,Status,Approval
+CFG-001,Site,SLRH ED environment created,Product,Complete,Approved
+CFG-002,Users,Role groups configured,IT,Complete,Approved
+CFG-003,Formulary,Priority medication set mapped,Pharmacy,Complete,Approved
+CFG-004,Protocols,Institution-specific instructions configured,Pharmacy,Complete,Approved
+CFG-005,Safety,Compatibility settings reviewed,Clinical,Complete,Approved
+CFG-006,Reporting,Admin usage view configured,Product,Complete,Approved
