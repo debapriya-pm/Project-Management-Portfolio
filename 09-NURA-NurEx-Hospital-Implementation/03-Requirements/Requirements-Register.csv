@@ -1,0 +1,11 @@
+ID,Type,Requirement,Priority,Owner,Acceptance
+FR-001,Functional,Authorized users can access approved institutional medication content,Must,Pharmacy,Approved test users retrieve content
+FR-002,Functional,User can complete patient-specific medication workflow,Must,Clinical,All critical scenarios pass
+FR-003,Functional,Safety/compatibility information is available,Must,Clinical,Critical scenarios pass clinical review
+FR-004,Functional,Pharmacy can manage institutional formulary content,Must,Pharmacy,Validator can review/update content
+FR-005,Functional,Authorized admins can view usage activity,Should,Product,Agreed metrics visible
+NFR-001,Non-functional,Role-based access is configured,Must,IT,Access test passes
+NFR-002,Non-functional,Patient data handling follows hospital requirements,Must,IT,Security checklist signed
+NFR-003,Non-functional,Target users can access system during agreed window,Must,IT,Availability test passes
+NFR-004,Non-functional,Training materials exist before go-live,Must,Training,Materials approved
+NFR-005,Non-functional,Clinical content changes are controlled/auditable,Must,Pharmacy,Change record exists
