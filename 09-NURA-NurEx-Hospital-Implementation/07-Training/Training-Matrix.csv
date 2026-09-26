@@ -1,0 +1,6 @@
+Role,Population,Training,Format,Completion_Target,Competency_Target
+ED Nurses,80,Core workflow + medication lookup + safety checks,Shift sessions,95%,90%
+Emergency Physicians,20,Core workflow + verification + transfer,Live demo + recording,90%,90%
+Pharmacists,8,Formulary management + governance,Workshop,100%,95%
+Super Users,6,Advanced workflow + escalation,Train-the-trainer,100%,95%
+IT/Admin,5,Access + reporting + support,Technical session,100%,90%
