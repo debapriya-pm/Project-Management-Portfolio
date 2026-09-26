@@ -1,0 +1,11 @@
+Stakeholder,Influence,Interest,Need,Engagement
+Hospital Executive Sponsor,High,Medium,Outcome confidence,Weekly executive update
+ED Director,High,High,Safe workable workflow,Weekly steering check-in
+Pharmacy Lead,High,High,Validated formulary,2x weekly workstream
+Nursing Lead,High,High,Training/readiness,Weekly readiness review
+Clinical Super Users,Medium,High,Workflow fit,UAT/workshops
+Hospital IT Lead,High,Medium,Access/security/integration,Technical meetings
+NURA Clinical Lead,High,High,Clinical safety,Validation sessions
+NURA Product Lead,Medium,High,Configuration feasibility,Configuration stand-ups
+NURA COO,High,Medium,Early escalation,Weekly status
+ED Nurses,Low,High,Simple workflow/training,Training + feedback
