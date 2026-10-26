@@ -389,3 +389,12 @@ Project Manager | PMO | Healthcare | Business Analysis | Data Analytics
 ---
 
 *This portfolio is a continuously evolving body of practical project-management, healthcare, business-analysis, research, and data-analytics work.*
+
+
+## Interactive PMO Project Hub
+
+### 08 | Healthcare PMO & Delivery Control Center
+
+An interactive project portfolio dashboard demonstrating delivery health reporting, project intake and prioritization, risk and issue visibility, milestone tracking, and executive status reporting. Built with HTML, CSS, and JavaScript; sample projects are fictional and focused on healthcare research, ePA implementation, CRM enhancement, and workflow improvement.
+
+**[Open the PMO Project Hub source and instructions →](08-PMO-Project-Hub/)** · [Launch the application source](08-PMO-Project-Hub/index.html)
