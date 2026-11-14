@@ -57,7 +57,7 @@ I would validate whether the 90-day target is feasible based on environment read
 | Weeks 11–12 | Wave 1: 60 agents; stabilization; Wave 2: 60 agents |
 | Weeks 12–13 | Hypercare, KPI monitoring, knowledge transfer and BAU acceptance |
 
-The Excel schedule and MS Project XML contain task-level durations, owners and finish-to-start dependencies. Some deployment activities use weekend windows. Validate the exact dates and local holiday calendar with the client.
+The Excel schedule and MS Project XML contain task-level durations, owners and explicit finish-to-start (FS) and start-to-start (SS) dependency links. Some deployment activities use weekend windows. Validate the exact dates and local holiday calendar with the client.
 
 ## 7. Workforce and resource plan
 
