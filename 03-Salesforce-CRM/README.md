@@ -2,71 +2,71 @@
 
 <sub>Primary Tech Mahindra Program Manager – Strategic Program Office interview case study</sub>
 
-> **Portfolio simulation.** This is a detailed implementation simulation built around the interview guide's 150-seat / 90-day BPO transition scenario. It is designed to demonstrate project planning, governance, stakeholder management, technology coordination, operational readiness and BAU handover. Scenario baselines, targets, dates and outcomes are illustrative unless independently verified.
+> **Portfolio simulation.** Detailed implementation simulation based on the 150-seat / 90-day BPO transition scenario in the interview guide. All scenario baselines, dates, targets and outcomes are illustrative unless independently verified.
 
-## Project at a glance
+## Project snapshot
 
 | Item | Scenario |
 |---|---|
 | Transformation | Legacy contact-centre systems to Salesforce Service Cloud |
 | Agent population | 150 seats |
-| Telephony | Existing Avaya environment integrated through CTI |
+| Telephony | Avaya CTI |
 | Delivery window | 90 calendar days |
 | Pilot | 30 agents |
 | Rollout | Two waves of 60 agents |
-| Delivery model | Hybrid: predictive governance + iterative configuration/testing |
-| Primary business owners | Client Operations, IT, PMO, WFM, QA and Training |
+| Method | Hybrid delivery |
 
-## Business problem
+## Business problem and target state
 
-Separate ticketing, telephony and email systems fragment customer context, create repeated manual effort and limit SLA visibility. The target state consolidates case management in Salesforce Service Cloud, integrates Avaya telephony, migrates agreed customer/case data and standardizes operational workflows.
+Fragmented ticketing, telephony and email systems make customer context difficult to access, create repeated work and limit SLA visibility. The target state consolidates case management in Salesforce, integrates Avaya through CTI, migrates approved customer/case data and standardizes service workflows.
 
 ## Project artifacts
 
-| Artifact | Link |
-|---|---|
-| Project overview | [01 – Project Overview](01-Project-Overview.md) |
-| Project Charter | [02 – Project Charter](02-Project-Charter.md) |
-| Statement of Work | [03 – SOW](03-Statement-of-Work.md) |
-| Project Management Plan | [04 – PMP](04-Project-Management-Plan.md) |
-| WBS and milestones | [05 – WBS and Milestones](05-WBS-and-Milestones.md) |
-| Testing and UAT | [06 – Testing and UAT Plan](06-Testing-and-UAT-Plan.md) |
-| Training and KT | [07 – Training and Knowledge Transfer](07-Training-and-Knowledge-Transfer.md) |
-| Cutover and rollback | [08 – Cutover and Rollback](08-Cutover-and-Rollback-Plan.md) |
-| Hypercare and BAU | [09 – Hypercare and BAU Handover](09-Hypercare-and-BAU-Handover.md) |
-| Steering report | [10 – Steering Committee Status Report](10-Steering-Committee-Status-Report.md) |
-| Operational SOPs | [11 – Operational SOPs](11-Operational-SOPs.md) |
-| Voice narrative | [12 – Interview Voice Narrative](12-Voice-Narrative.md) |
-| Interview Q&A | [13 – Tech Mahindra Interview Q&A](13-Tech-Mahindra-Interview-QA.md) |
-| 150-seat scenario | [14 – Scenario Planning](14-Scenario-Planning-150-Seat-Transition.md) |
-| STAR examples | [15 – STAR Examples and Resume Probes](15-STAR-Examples-and-Resume-Probes.md) |
-| Excel integrated plan | [16 – 90-Day Transition Plan.xlsx](16-90-Day-Transition-Plan.xlsx) |
-| Microsoft Project schedule | [17 – 90-Day MS Project Schedule.xml](17-90-Day-MS-Project-Schedule.xml) |
+- [01 – Project Overview](01-Project-Overview.md)
+- [02 – Project Charter](02-Project-Charter.md)
+- [03 – Statement of Work](03-Statement-of-Work.md)
+- [04 – Project Management Plan](04-Project-Management-Plan.md)
+- [05 – WBS and Milestones](05-WBS-and-Milestones.md)
+- [06 – Testing and UAT Plan](06-Testing-and-UAT-Plan.md)
+- [07 – Training and Knowledge Transfer](07-Training-and-Knowledge-Transfer.md)
+- [08 – Cutover and Rollback Plan](08-Cutover-and-Rollback-Plan.md)
+- [09 – Hypercare and BAU Handover](09-Hypercare-and-BAU-Handover.md)
+- [10 – Steering Committee Status Report](10-Steering-Committee-Status-Report.md)
+- [11 – Operational SOPs](11-Operational-SOPs.md)
+- [12 – Interview Voice Narrative](12-Voice-Narrative.md)
+- [13 – Tech Mahindra Interview Q&A](13-Tech-Mahindra-Interview-QA.md)
+- [14 – 150-Seat Scenario Plan](14-Scenario-Planning-150-Seat-Transition.md)
+- [15 – STAR Examples and Resume Probes](15-STAR-Examples-and-Resume-Probes.md)
+- [16 – Excel 90-Day Transition Plan](16-90-Day-Transition-Plan.xlsx)
+- [17 – MS Project XML Schedule](17-90-Day-MS-Project-Schedule.xml)
+- [18 – RACI Matrix](18-RACI-Matrix.csv)
+- [19 – Communication Plan](19-Communication-Plan.csv)
+- [20 – Budget and Resource Plan](20-Budget-and-Resource-Plan.csv)
+- [21 – KPI Dictionary](21-KPI-Dictionary.csv)
 
-## Technical workstreams
+## Core workstreams
 
-1. **Salesforce CRM configuration:** accounts, contacts, cases, fields, page layouts, profiles, roles, permissions, queues, assignment rules, escalations and dashboards.
-2. **Avaya CTI integration:** softphone, caller identification, screen-pop, call transfer/hold and interaction logging, subject to approved connector design.
-3. **Data migration:** source inventory, profiling, cleansing, mapping, test migration, reconciliation and production migration.
-4. **Testing:** SIT, defect management, regression and business UAT.
-5. **People readiness:** SOPs, WFM capacity, training cohorts, Train-the-Trainer, shadowing and competency checks.
-6. **Transition:** 30-agent pilot, two 60-agent rollout waves, hypercare and BAU handover.
+1. Salesforce CRM configuration and role-based access.
+2. Avaya CTI integration: softphone, caller identification, screen-pop and call logging.
+3. Data migration: inventory, cleansing, mapping, test load and reconciliation.
+4. SIT, defect management, regression and UAT.
+5. SOPs, WFM capacity, Train-the-Trainer and agent training.
+6. Pilot, two rollout waves, hypercare and BAU handover.
 
 ## Scenario KPI framework
 
-| KPI | Scenario baseline | Target / definition |
-|---|---:|---|
+| KPI | Illustrative baseline | Target |
+|---|---:|---:|
 | SLA adherence | Below 82% | At least 95% for 14 consecutive days |
 | CSAT | Below 74% | +12 percentage points |
-| AHT | 25% above target | Improve toward client-agreed target |
-| Uptime | To be baselined | 99.9% during agreed measurement window |
+| AHT | 25% above target | Improve toward agreed target |
+| Uptime | To be baselined | 99.9% agreed measurement window |
 | Response time | To be baselined | 20% reduction |
-| Team efficiency | To be baselined | 30% improvement using an agreed formula |
 
-A 12-percentage-point CSAT improvement from 74% would equal 86%. That is an illustration, not a verified result. The efficiency measure and all baselines must be defined before reporting benefits.
+A 12-point CSAT improvement from 74% would equal 86%. This is an illustration, not a verified outcome. Define each KPI and its source before reporting benefits.
 
-## How to present this project
+## How to present
 
-Present the business problem, your project-management approach, the workstreams, dependencies, governance, risk decisions, pilot and go-live controls, and BAU exit evidence. Explain what you personally own as Project Manager and distinguish that from engineering, configuration and data-development work.
+Explain the business problem, your PM approach, workstreams, dependencies, governance, risk decisions, pilot, go-live controls and BAU evidence. Distinguish project-management ownership from engineering, configuration and data-development tasks.
 
-**Important:** Do not claim that this simulated project was delivered for a real client or that the scenario targets were achieved unless you can substantiate the engagement, your contribution and the underlying KPI evidence.
+**Do not present this simulation as a historical client delivery or report illustrative outcomes as achieved results unless you can substantiate them.**
