@@ -1,0 +1,15 @@
+Activity,Client Sponsor,Technology,PMO / PM,Operations,QA,HR / WFM / Training,BAU
+Approve business case SOW and charter,A,C,R,C,I,I,I
+Approve scope schedule and budget baseline,A,C,R,C,C,I,I
+Provision Salesforce licences and user accounts,A/R,C,I,I,I,I,I
+Gather requirements and approve To-Be process,C,C,R,A,C,C,I
+Configure Salesforce CRM and case management,I,A/R,C,C,C,I,I
+Deliver Avaya CTI integration,I,A/R,C,C,C,I,I
+Cleanse map and migrate data,A,R,C,C,C,I,I
+Execute SIT and defect management,I,A/R,C,C,R,I,I
+Execute UAT and business acceptance,A,C,R,R,R,C,I
+Develop SOPs and training materials,I,C,C,A,C,R,I
+Manage recruitment and WFM capacity,I,I,C,A,C,R,C
+Approve go/no-go and cutover,A,R,R,R,C,C,I
+Run hypercare and incident triage,I,R,A,R,R,C,C
+Accept BAU handover and close project,A,C,R,R,C,C,R
