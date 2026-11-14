@@ -1,0 +1,20 @@
+Cost or Resource Category,Planning Basis,Owner,Amount or FTE,Notes
+Salesforce licences,150 user licences; commercial rate to confirm,Client Procurement and IT,TBC,Do not invent subscription pricing
+CTI connector and telephony,Connector entitlement setup and vendor support,IT and Procurement,TBC,Confirm existing Avaya and connector contract
+Implementation services,Architecture CRM configuration CTI engineering,Technology Delivery,TBC,Estimate by role effort and rate card
+Data migration,Profiling cleansing mapping load reconciliation,Data Lead,TBC,Estimate record volume and complexity
+Training and backfill,Trainer effort agent hours floor-walkers backfill,Operations and WFM,TBC,Protect contracted service levels
+Infrastructure and security,Network firewall identity test environments,IT Infrastructure,TBC,Confirm existing capacity
+Contingency,Risk-based management reserve,Sponsor and PM,TBC,Release only through governance
+Program Manager,Full duration,PMO,1,Integrated delivery governance reporting
+Business Analyst,Discovery through UAT,PMO,1-2,Requirements process mapping traceability
+Salesforce Architect or Lead,Design through hypercare,Technology,1,Architecture and technical leadership
+Salesforce Admin or Developers,Build and defect cycles,Technology,2-4,Configuration automation reports
+CTI or Avaya Engineers,Design through hypercare,Technology,2,Connector softphone screen-pop call tests
+Data Migration Team,Discovery through migration,Technology,2-3,Profiling cleansing mapping reconciliation
+QA or Test Analysts,SIT and UAT,QA,2-3,Test execution defect and regression
+Operations SMEs and Supervisors,Discovery UAT pilot rollout,Operations,4-6 part-time,Process ownership and acceptance
+WFM Analysts,Planning through rollout,Operations,1-2,Capacity shrinkage schedules backfill
+Training and Knowledge Leads,Design through rollout,Training,2-3,SOP TTT agent training
+Floor Coaches,Pilot and cutover,Operations,6-10 during waves,Adoption and immediate support
+BAU and Service Desk,Testing through handover,BAU,2-4,Support model and knowledge transfer
