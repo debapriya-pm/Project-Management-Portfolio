@@ -1,0 +1,13 @@
+ID,Description,Type,Probability,Impact,Response / Mitigation,Owner,Trigger or Due,Status
+R01,CTI connector or network readiness delayed,Risk,High,High,"Daily technical checkpoint vendor escalation approved fallback",CTI Lead,Before SIT,Open
+R02,Legacy data contains duplicates or incomplete records,Risk,High,High,"Early profiling cleansing rules test load reconciliation",Data Lead,Before production load,Open
+R03,Insufficient or late Salesforce licences,Risk,Medium,High,"Named owner entitlement check user roster and provisioning deadline",Client IT,Before UAT,Open
+R04,Agent resistance reduces adoption and FCR,Risk,Medium,High,"Super-users floor-walkers coaching feedback loops",Operations Lead,Pilot,Open
+R05,Training reduces live queue capacity,Risk,High,High,"Stagger cohorts WFM backfill daily SLA monitoring",WFM Lead,Training start,Open
+R06,New channel requests expand scope,Risk,High,Medium,"Formal change request with cost schedule and quality impact assessment",Project Manager,On request,Open
+R07,Security approval blocks access,Risk,Medium,High,"Early security assessment least privilege and approval evidence",Security Lead,Before SIT,Open
+A01,Client SMEs available for workshops and UAT,Assumption,Medium,High,"Confirm named delegates and calendar commitments",Client PM,Kickoff,Validate
+A02,Salesforce and CTI environments are available,Assumption,Medium,High,"Confirm environment access and vendor support dates",IT Director,Mobilization,Validate
+I01,Illustrative CTI screen-pop defect during SIT,Issue,High,High,"Root-cause analysis owner fix retest and forecast update",CTI Lead,SIT,Example
+D01,CTI tests depend on network firewall and Salesforce environment readiness,Dependency,High,High,"Track predecessor completion and escalate slippage",Infrastructure Lead,Before CTI testing,Open
+D02,Pilot depends on UAT acceptance training and agent access,Dependency,High,High,"Maintain evidence-based readiness checklist and sign-offs",PMO Lead,Before pilot,Open
