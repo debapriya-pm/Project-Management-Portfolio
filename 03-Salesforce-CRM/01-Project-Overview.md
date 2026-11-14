@@ -65,7 +65,3 @@ I use a **hybrid delivery model**:
 - Steering Committee status report.
 - First-person presentation narrative.
 - Interview question bank aligned to the supplied Tech Mahindra guide.
-
-## How to present this case study
-
-Explain the business problem, your role as the project manager in the simulation, the workstreams you coordinated, the decisions you would take, and the evidence required at each gate. Do not describe illustrative outcomes as historical achievements. If you have a real project with comparable evidence, replace the assumptions and clearly distinguish your actual responsibilities from this simulation.
