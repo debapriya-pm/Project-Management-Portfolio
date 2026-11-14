@@ -58,7 +58,7 @@ I use a **hybrid delivery model**:
 - Project overview, charter and Statement of Work.
 - Project Management Plan and governance model.
 - WBS and milestone map.
-- Excel integrated schedule, stakeholder register, RACI, RAID, communications, budget, resource and KPI sheets.
+- Excel integrated schedule workbook, plus separate CSV control registers for stakeholders, RACI, RAID, communications, budget/resources and KPIs.
 - Microsoft Project XML schedule for import into MS Project.
 - SIT/UAT, training/KT, cutover/rollback and hypercare/BAU plans.
 - Operational SOPs.
