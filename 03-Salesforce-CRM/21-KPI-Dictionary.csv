@@ -1,0 +1,9 @@
+Metric,Scenario Baseline,Target or Success Criterion,Definition,Owner
+SLA adherence,Below 82%,At least 95% for 14 consecutive days; 96.5% illustrative,Eligible interactions meeting SLA divided by eligible interactions,Operations and WFM
+CSAT,Below 74%,Improve by 12 percentage points; 74% to 86% illustrative,Positive survey responses divided by valid responses using consistent survey method,QA and Operations
+AHT,25% above target in scenario,Reduce toward client-agreed target,Talk time plus hold time plus after-call work divided by handled contacts,Operations and WFM
+FCR,To be established,Improve without quality decline,Contacts resolved first time divided by eligible contacts,Operations and QA
+Abandon rate,To be established,Meet contractual threshold,Abandoned eligible calls divided by offered calls,WFM
+Agent readiness,0 migrated users at start,150 trained provisioned and signed off,Agents passing training and access checklist divided by 150,Training and Operations
+Uptime,To be established,99.9% during agreed measurement window,Available service time divided by scheduled service time with agreed exclusions,IT
+Response time,To be established,20% reduction,Use the same mean or median response-time measure before and after,Operations
