@@ -37,6 +37,7 @@ Fragmented ticketing, telephony and email systems make customer context difficul
 - [13 – Tech Mahindra Interview Q&A](13-Tech-Mahindra-Interview-QA.md)
 - [14 – 150-Seat Scenario Plan](14-Scenario-Planning-150-Seat-Transition.md)
 - [15 – STAR Examples and Resume Probes](15-STAR-Examples-and-Resume-Probes.md)
+- [22 – Interview Topic Answer Bank](22-Interview-Topic-Answer-Bank.md)
 - [16 – Excel 90-Day Transition Plan](16-90-Day-Transition-Plan.xlsx)
 - [17 – MS Project XML Schedule](17-90-Day-MS-Project-Schedule.xml)
 - [18 – RACI Matrix](18-RACI-Matrix.csv)
