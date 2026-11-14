@@ -1,0 +1,7 @@
+Forum,Frequency,Audience,Content,Owner,Record
+Steering Committee,Monthly and by exception,"Sponsor IT Director PMO Director Operations Director","RAG milestones budget risks decisions",Program Manager,Minutes and decision log
+Operational Review,Weekly,"Operations WFM QA IT Training PMO","Readiness staffing SLA issues dependencies",Project Manager,Action and RAID log
+Transition Scrum,Daily during build and transition,"Workstream leads BA technical leads trainer leads","Progress next steps blockers critical path",Project Manager,Daily action log
+Workstream Sessions,2-3 times weekly,"Relevant SMEs and workstream owners","Design build data testing issue resolution",Workstream Lead,Workstream tracker
+Agent Briefing,Weekly and daily during cutover,"Agents supervisors floor coaches","Changes training timing and support",Operations and Training,Attendance and FAQ
+Critical Incident,Immediate by severity,"Incident lead IT Operations sponsor as required","Impact workaround owner ETA service risk",Incident Manager,Incident ticket
