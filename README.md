@@ -28,6 +28,18 @@ A detailed implementation simulation designed for a Program Manager / Strategic 
 
 > The Salesforce project is a portfolio simulation based on a 150-seat / 90-day interview scenario. Scenario baselines, targets, dates and results are clearly labelled as illustrative unless verified.
 
+## Additional Interview Case Study – Global Pharmaceutical Market Research
+
+### Global Biologic Commercial Readiness & Physician Adoption Study
+
+**Healthcare market research | Five markets | 14 weeks | Illustrative USD 485,000 program**
+
+A mixed-method research program simulation covering physician adoption, payer access, patient administration barriers, multi-country recruitment, research compliance, pharmacovigilance workflows, data quality and executive recommendations. Includes a 14-week WBS, country quota tracker, RACI, RAID, protocol and compliance plan, safety escalation SOP, quality plan, Week 7 recovery plan, KPI controls and interview talk track.
+
+**[Open the global pharmaceutical research case study →](11-Global-Pharmaceutical-Commercial-Readiness-Study/)**
+
+> This is a fictionalized portfolio simulation. Sponsor identity, budget, metrics, respondent examples and outcomes are illustrative and are not presented as verified client work.
+
 ## Secondary Interview Case Study
 
 ### Electronic Prior Authorization (ePA) Workflow Implementation
