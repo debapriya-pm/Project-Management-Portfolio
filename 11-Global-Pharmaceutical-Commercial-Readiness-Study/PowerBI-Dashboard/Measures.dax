@@ -1,0 +1,29 @@
+-- Exafield Global Biologic Commercial Readiness Dashboard
+-- Import the CSV files into Power BI using the exact table names below.
+
+Total Respondents = SUM('Market_Recruitment'[Total_Completed])
+KOLs Completed = SUM('Market_Recruitment'[KOL_Completed])
+Payers Completed = SUM('Market_Recruitment'[Payer_Completed])
+Survey Responses = SUM('Market_Recruitment'[Survey_Completed])
+
+KOL Target = SUM('Market_Recruitment'[KOL_Target])
+Payer Target = SUM('Market_Recruitment'[Payer_Target])
+Survey Target = SUM('Market_Recruitment'[Survey_Target])
+
+Overall Target = [KOL Target] + [Payer Target] + [Survey Target]
+Overall Completed = [KOLs Completed] + [Payers Completed] + [Survey Responses]
+Quota Attainment % = DIVIDE([Overall Completed], [Overall Target])
+
+Total Program Budget = 485000
+Program Duration (Weeks) = 14
+Markets Covered = DISTINCTCOUNT('Market_Recruitment'[Code])
+
+Valid Adverse Events = COUNTROWS('Adverse_Events')
+Average AE Escalation TAT (Hours) = AVERAGE('Adverse_Events'[TAT_Hours])
+AE Within 24h =
+CALCULATE(COUNTROWS('Adverse_Events'), 'Adverse_Events'[TAT_Hours] <= 24)
+AE Compliance % = DIVIDE([AE Within 24h], [Valid Adverse Events])
+
+Efficacy Perception % = 78
+Autoinjector Preference % = 84
+Payer Step Therapy % = 100
