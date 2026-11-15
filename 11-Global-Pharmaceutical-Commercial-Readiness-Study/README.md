@@ -4,62 +4,60 @@
 
 A 14-week, five-market commercial-readiness and physician-adoption research program for a newly approved biologic therapy. The study combines qualitative specialist and payer interviews with a quantitative physician survey to assess prescribing intent, access barriers and patient-administration considerations ahead of commercial launch.
 
-This case study documents the program-management approach, research design, fieldwork recovery, quality controls and executive recommendations.
+## Programme snapshot
 
-## Program at a glance
-
-| Dimension | Detail |
+| Measure | Scenario result |
 |---|---:|
 | Duration | 14 weeks |
 | Markets | United States, United Kingdom, Germany, France and Italy |
-| Illustrative program budget | USD 485,000 |
-| Total respondent target | 325 |
-| Total respondents completed | 332 |
-| KOL specialist interviews | 60 target / 62 completed |
-| Payer and hospital-pharmacy interviews | 15 target / 15 completed |
-| Quantitative physician surveys | 250 target / 255 completed |
-| Reported quota attainment | 102.2% |
+| Illustrative programme budget | USD 485,000 |
+| Respondent target | 325 |
+| Respondents completed | 332 |
+| Quota attainment | 102.1% (source workbook) |
 | Valid adverse-event mentions | 3 |
 | Average AE escalation turnaround | 3.8 hours |
 
 ## Research design
 
-The mixed-methods design combined:
-- 60-minute in-depth interviews with specialist physicians and hospital pharmacy / payer stakeholders;
-- a structured online survey of high-prescribing community specialists; and
-- cross-market synthesis of clinical perceptions, payer access requirements, administration preferences and patient-support needs.
+- 60 target KOL specialist interviews (62 completed).
+- 15 target payer / hospital-pharmacy interviews (15 completed).
+- 250 target quantitative physician surveys (255 completed).
 
-## Program management and delivery approach
+## Project deliverables
 
-The delivery approach covered five integrated workstreams:
+### Original source workbook
+The master workbook contains five worksheets: Executive Dashboard, 14-Week Fieldwork Schedule, Sample & Recruitment Tracker, Adverse Event Log, and Key Findings & Insights. The original file is retained as the source of record.
 
-1. **Study design and governance** — scope definition, protocol, screening criteria, discussion guides, stakeholder alignment and delivery controls.
-2. **Ethics, localization and safety** — country adaptation, privacy and research-code requirements, informed participation and adverse-event escalation procedures.
-3. **Recruitment and fieldwork** — country quota management, moderator scheduling, regional panel coordination and fieldwork performance tracking.
-4. **Quality assurance and analysis** — transcript and respondent validation, survey data cleaning, thematic coding and safety-log reconciliation.
-5. **Executive synthesis** — integration of qualitative and quantitative evidence into commercial implications and launch-readiness recommendations.
+### Supporting project artifacts
+| Artifact | Description |
+|---|---|
+| [Project Charter](01-Project-Charter.md) | Purpose, objectives, scope, deliverables and success measures |
+| [14-Week Fieldwork Schedule](02-14-Week-Fieldwork-Schedule.csv) | Work breakdown, owners, milestones and status |
+| [Sample & Recruitment Tracker](03-Sample-and-Recruitment-Tracker.csv) | Country quotas and completed respondent counts |
+| [Adverse Event Log](04-Adverse-Event-Log.csv) | Incident-level safety escalation log |
+| [Key Findings & Insights](05-Key-Findings-and-Insights.csv) | Commercial findings, risks and recommendations |
+| [RACI & Governance](06-RACI-and-Governance.md) | Workstream accountability and stakeholder roles |
+| [RAID Register](07-RAID-Register.md) | Key risks, assumptions, issues and dependencies |
+| [Protocol & Compliance Overview](08-Protocol-and-Compliance-Overview.md) | Research design, screening and safety controls |
+| [Week 7 Recruitment Recovery Plan](09-Week-7-Recruitment-Recovery-Plan.md) | Root cause, corrective actions and recovery outcome |
+| [Quality & Data Validation Plan](10-Quality-and-Data-Validation-Plan.md) | Qualitative, quantitative and safety quality controls |
+| [Executive Recommendations](11-Executive-Recommendations.md) | Findings translated into commercial actions |
+| [Data Dictionary](12-Data-Dictionary.md) | Workbook structure and KPI definitions |
 
-## Week 7 recovery
+## Interactive Excel dashboard
 
-Hospital-based specialist recruitment in Germany and the United Kingdom reached approximately 40% of the time-phased target. The recovery response addressed the scheduling constraint through evening and weekend interview availability, bilingual senior moderators and pre-screened regional medical panels. Recruitment recovered within 10 days and fieldwork remained on schedule.
+The companion interactive workbook contains the five source worksheets plus an Interactive_Dashboard tab. It provides a market selector, dynamic KPI cards, a target-versus-completed research-stream chart and a country comparison chart. The dashboard is designed for Microsoft Excel desktop with automatic calculation enabled.
 
-## Key findings and commercial implications
+## Delivery approach
 
-The study scenario reported strong physician confidence in clinical efficacy alongside meaningful access and administration considerations:
+The program was managed through five lifecycle phases: study scoping and protocol development; compliance, ethical approvals and translation; recruitment and fieldwork; data validation and quality control; and synthesis with executive delivery.
 
-- 78% of specialists viewed efficacy positively.
-- All 15 payer / hospital-pharmacy stakeholders anticipated step-therapy requirements.
-- 84% of physicians preferred a monthly home auto-injector pen over hospital IV infusion, while identifying administration-error concerns among some elderly patients.
+At the Week 7 checkpoint, hospital specialist recruitment in Germany and the UK was approximately 40% of the time-phased target. Evening and weekend interview slots, bilingual senior moderators and pre-screened regional medical panels were introduced. Recruitment recovered within 10 days and fieldwork remained on schedule.
 
-The recommendations included a prescribing-clinic prior-authorization support concierge and an ergonomic trainer pen in patient starter packs.
+## Executive findings
 
-## Delivery outcomes
+The scenario reports that 78% of specialists rated efficacy superior to current standard of care, 84% preferred a monthly home autoinjector over IV infusion, and all 15 interviewed payers anticipated step-therapy requirements. Recommendations included prior-authorization support for prescribing clinics and an ergonomic trainer pen in patient starter packs.
 
-- 332 respondents completed against a target of 325.
-- Fieldwork completed within the 14-week program window.
-- Three valid adverse-event mentions were documented and escalated, with a reported average turnaround of 3.8 hours.
-- The final synthesis translated physician and payer evidence into operational launch-support recommendations.
+## Portfolio context
 
-## Portfolio context and data note
-
-This is a portfolio case study based on a constructed project scenario. The budget, client context, sample counts, percentages, findings and outcomes are scenario figures and are not independently verified claims about a real client engagement. No patient-identifiable information is included.
+This is a portfolio case study based on a constructed project scenario. Budget, respondent counts, client context, findings and outcomes are illustrative scenario figures and are not independently verified claims about a real client engagement. No patient-identifiable information is included.
