@@ -38,7 +38,7 @@ A structured implementation case study focused on CRM delivery, stakeholder coor
 
 A healthcare technology implementation case study covering workflow integration, clinical and operational stakeholders, implementation planning, testing, training, go-live readiness and hypercare.
 
-[Explore ePA implementation case study →](10-Electronic-Prior-Authorization/)
+[Explore ePA implementation case study →](10-Electronic-Prior-Authorization-Implementation/)
 
 ### 04 — Hospital Clinical Platform Implementation
 
