@@ -23,12 +23,19 @@ A 14-week, five-market commercial-readiness and physician-adoption research prog
 - 15 target payer / hospital-pharmacy interviews (15 completed).
 - 250 target quantitative physician surveys (255 completed).
 
-## Project deliverables
+## Workbook deliverables
 
-### Original source workbook
-The master workbook contains five worksheets: Executive Dashboard, 14-Week Fieldwork Schedule, Sample & Recruitment Tracker, Adverse Event Log, and Key Findings & Insights. The original file is retained as the source of record.
+Two Excel workbooks are included in this project folder:
 
-### Supporting project artifacts
+| Workbook | Purpose |
+|---|---|
+| [Original master workbook](Exafield_Global_Biologic_Market_Research_Master_Artifact.xlsx) | Original source workbook, retained unchanged. Contains the five source worksheets: Executive Dashboard, 14-Week Fieldwork Schedule, Sample & Recruitment Tracker, Adverse Event Log, and Key Findings & Insights. |
+| [Interactive Excel dashboard](Exafield_Interactive_Dashboard_VERIFIED.xlsx) | Enhanced workbook with the five source worksheets retained and an additional Interactive_Dashboard worksheet. Includes a market selector, KPI cards, a selected-market target-versus-completed chart and a country comparison chart. |
+
+For the interactive workbook, open it in Microsoft Excel desktop and allow workbook calculations to update. Use the market selector on the Interactive_Dashboard worksheet to view market-level recruitment metrics.
+
+## Supporting project artifacts
+
 | Artifact | Description |
 |---|---|
 | [Project Charter](01-Project-Charter.md) | Purpose, objectives, scope, deliverables and success measures |
@@ -43,10 +50,6 @@ The master workbook contains five worksheets: Executive Dashboard, 14-Week Field
 | [Quality & Data Validation Plan](10-Quality-and-Data-Validation-Plan.md) | Qualitative, quantitative and safety quality controls |
 | [Executive Recommendations](11-Executive-Recommendations.md) | Findings translated into commercial actions |
 | [Data Dictionary](12-Data-Dictionary.md) | Workbook structure and KPI definitions |
-
-## Interactive Excel dashboard
-
-The companion interactive workbook contains the five source worksheets plus an Interactive_Dashboard tab. It provides a market selector, dynamic KPI cards, a target-versus-completed research-stream chart and a country comparison chart. The dashboard is designed for Microsoft Excel desktop with automatic calculation enabled.
 
 ## Delivery approach
 
