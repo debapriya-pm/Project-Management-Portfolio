@@ -23,6 +23,10 @@ A 14-week, five-market commercial-readiness and physician-adoption research prog
 - 15 target payer / hospital-pharmacy interviews (15 completed).
 - 250 target quantitative physician surveys (255 completed).
 
+## Dashboard preview
+
+![Executive dashboard preview](dashboard-preview.svg)
+
 ## Workbook deliverables
 
 Two Excel workbooks are included in this project folder:
