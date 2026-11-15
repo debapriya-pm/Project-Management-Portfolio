@@ -27,16 +27,16 @@ A 14-week, five-market commercial-readiness and physician-adoption research prog
 
 ![Executive dashboard preview](dashboard-preview.svg)
 
-## Workbook deliverables
+## Programme reporting and dashboard
 
-Two Excel workbooks are included in this project folder:
+The programme reporting suite consists of the source research workbook and an executive dashboard workbook. Together, these deliverables provide the underlying fieldwork records, recruitment performance measures, safety tracking and management-level reporting.
 
-| Workbook | Purpose |
+| Deliverable | Management purpose and contents |
 |---|---|
-| [Original master workbook](Exafield_Global_Biologic_Market_Research_Master_Artifact.xlsx) | Original source workbook, retained unchanged. Contains the five source worksheets: Executive Dashboard, 14-Week Fieldwork Schedule, Sample & Recruitment Tracker, Adverse Event Log, and Key Findings & Insights. |
-| [Interactive Excel dashboard](Exafield_Interactive_Dashboard_VERIFIED.xlsx) | Enhanced workbook with the five source worksheets retained and an additional Interactive_Dashboard worksheet. Includes a market selector, KPI cards, a selected-market target-versus-completed chart and a country comparison chart. |
+| [Research master workbook](Exafield_Global_Biologic_Market_Research_Master_Artifact.xlsx) | Controlled source workbook containing the Executive Dashboard, 14-Week Fieldwork Schedule, Sample & Recruitment Tracker, Adverse Event Log, and Key Findings & Insights. Retained as the original project record. |
+| [Executive interactive dashboard](Exafield_Interactive_Dashboard_VERIFIED.xlsx) | Management reporting view incorporating the five source worksheets and a dedicated Interactive_Dashboard. Presents programme KPIs, market-level recruitment performance, research-stream target-versus-completed results, and cross-market comparisons. |
 
-For the interactive workbook, open it in Microsoft Excel desktop and allow workbook calculations to update. Use the market selector on the Interactive_Dashboard worksheet to view market-level recruitment metrics.
+The dashboard supports review of respondent delivery against target, quota attainment, programme budget and adverse-event escalation turnaround. Market-level filtering enables the programme team to isolate recruitment performance by country and identify variances requiring management attention.
 
 ## Supporting project artifacts
 
