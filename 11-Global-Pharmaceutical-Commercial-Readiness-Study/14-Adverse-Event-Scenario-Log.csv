@@ -1,0 +1,5 @@
+Scenario_ID,Reporting_Market,Event_Category,Awareness_Time,Escalation_TAT_Hours,Scenario_Status
+AE-01,United States,Injection-site reaction,11:15 AM EST,4.25,Escalated within scenario SOP target
+AE-02,Germany,Laboratory abnormality,09:40 AM CET,4.50,Escalated within scenario SOP target
+AE-03,France,Headache and fatigue,02:20 PM CET,2.67,Escalated within scenario SOP target
+AVERAGE,,, ,3.81,Approx 3.8 hours
