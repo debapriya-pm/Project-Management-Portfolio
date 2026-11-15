@@ -2,53 +2,64 @@
 
 ## Project overview
 
-This portfolio case study presents the planning and delivery of a multi-country commercial-readiness and physician-adoption research program for a newly approved biologic therapy. The supplied master workbook is the primary source artifact.
+A 14-week, five-market commercial-readiness and physician-adoption research program for a newly approved biologic therapy. The study combines qualitative specialist and payer interviews with a quantitative physician survey to assess prescribing intent, access barriers and patient-administration considerations ahead of commercial launch.
 
-**Program snapshot from the workbook**
+This case study documents the program-management approach, research design, fieldwork recovery, quality controls and executive recommendations.
+
+## Program at a glance
 
 | Dimension | Detail |
-|---|---|
-| Program duration | 14 weeks |
-| Geographic scope | United States, United Kingdom, Germany, France and Italy |
-| Illustrative fixed-price budget | USD 485,000 |
-| Target sample | 325 respondents |
-| Completed sample | 332 respondents |
+|---|---:|
+| Duration | 14 weeks |
+| Markets | United States, United Kingdom, Germany, France and Italy |
+| Illustrative program budget | USD 485,000 |
+| Total respondent target | 325 |
+| Total respondents completed | 332 |
 | KOL specialist interviews | 60 target / 62 completed |
 | Payer and hospital-pharmacy interviews | 15 target / 15 completed |
-| Quantitative physician survey | 250 target / 255 completed |
-| Workbook-reported compliance | 100% |
+| Quantitative physician surveys | 250 target / 255 completed |
+| Reported quota attainment | 102.2% |
 | Valid adverse-event mentions | 3 |
 | Average AE escalation turnaround | 3.8 hours |
 
-## Source workbook contents
+## Research design
 
-The original workbook contains five worksheets:
+The mixed-methods design combined:
+- 60-minute in-depth interviews with specialist physicians and hospital pharmacy / payer stakeholders;
+- a structured online survey of high-prescribing community specialists; and
+- cross-market synthesis of clinical perceptions, payer access requirements, administration preferences and patient-support needs.
 
-1. **Executive_Dashboard** — program dossier, study methodology, sample architecture and strategic objectives.
-2. **14Week_Fieldwork_Schedule** — work breakdown structure, phase timing, workstream leads and milestones.
-3. **Sample_&_Recruitment_Tracker** — country-level sample targets and completed quotas, plus screening criteria.
-4. **Adverse_Event_Log** — adverse-event mentions, escalation turnaround and audit summary.
-5. **Key_Findings_&_Insights** — commercial findings, identified risks and recommended actions.
+## Program management and delivery approach
 
-## Interactive Excel dashboard
+The delivery approach covered five integrated workstreams:
 
-A separate enhanced copy adds an **Interactive_Dashboard** worksheet while retaining all five source worksheets. It includes:
-- a market dropdown (All, US, Germany, UK, France or Italy);
-- KPI cards for completed respondents, target, quota attainment, budget and average AE turnaround;
-- a selected-market target-versus-completed chart by research stream; and
-- a country-level target-versus-completed comparison chart.
+1. **Study design and governance** — scope definition, protocol, screening criteria, discussion guides, stakeholder alignment and delivery controls.
+2. **Ethics, localization and safety** — country adaptation, privacy and research-code requirements, informed participation and adverse-event escalation procedures.
+3. **Recruitment and fieldwork** — country quota management, moderator scheduling, regional panel coordination and fieldwork performance tracking.
+4. **Quality assurance and analysis** — transcript and respondent validation, survey data cleaning, thematic coding and safety-log reconciliation.
+5. **Executive synthesis** — integration of qualitative and quantitative evidence into commercial implications and launch-readiness recommendations.
 
-Open the enhanced workbook in Microsoft Excel desktop with calculation mode set to **Automatic**. Change the yellow dropdown in cell **B5** to explore the market-level metrics.
+## Week 7 recovery
 
-## Workbook deliverables
+Hospital-based specialist recruitment in Germany and the United Kingdom reached approximately 40% of the time-phased target. The recovery response addressed the scheduling constraint through evening and weekend interview availability, bilingual senior moderators and pre-screened regional medical panels. Recruitment recovered within 10 days and fieldwork remained on schedule.
 
-The two workbook deliverables are provided as downloadable files in the accompanying ChatGPT response:
+## Key findings and commercial implications
 
-- `Exafield_Global_Biologic_Market_Research_Master_Artifact.xlsx` — original workbook, unchanged.
-- `Exafield_Global_Biologic_Market_Research_Interactive_Dashboard.xlsx` — enhanced copy with the new interactive dashboard.
+The study scenario reported strong physician confidence in clinical efficacy alongside meaningful access and administration considerations:
 
-**GitHub upload note:** The connected GitHub integration can update repository documentation but does not support transferring binary `.xlsx` attachments. To add the two workbooks to this folder, use GitHub **Add file → Upload files** and upload both downloaded workbooks. The existing source sheets in the enhanced copy are unchanged.
+- 78% of specialists viewed efficacy positively.
+- All 15 payer / hospital-pharmacy stakeholders anticipated step-therapy requirements.
+- 84% of physicians preferred a monthly home auto-injector pen over hospital IV infusion, while identifying administration-error concerns among some elderly patients.
 
-## Data integrity and portfolio note
+The recommendations included a prescribing-clinic prior-authorization support concierge and an ergonomic trainer pen in patient starter packs.
 
-This is a portfolio case study based on the supplied scenario and workbook. Budget, client context, sample counts, study findings and outcomes are presented as scenario information from the source material; they are not independently verified claims about a real client engagement. The original workbook is not edited. The interactive workbook is a separate derivative created to add dashboard functionality.
+## Delivery outcomes
+
+- 332 respondents completed against a target of 325.
+- Fieldwork completed within the 14-week program window.
+- Three valid adverse-event mentions were documented and escalated, with a reported average turnaround of 3.8 hours.
+- The final synthesis translated physician and payer evidence into operational launch-support recommendations.
+
+## Portfolio context and data note
+
+This is a portfolio case study based on a constructed project scenario. The budget, client context, sample counts, percentages, findings and outcomes are scenario figures and are not independently verified claims about a real client engagement. No patient-identifiable information is included.
