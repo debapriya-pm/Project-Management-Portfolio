@@ -1,0 +1,4 @@
+AE Incident ID,Reporting Date,Market,Therapy / Molecule Mentioned,Reported Adverse Event Description,Notification Timestamp,Client Safety Escalation Time,TAT (Hours),Audit Verdict
+AE-2026-01,Week 6 (Tuesday),United States,Commercial Biologic (Client Product),Physician reported mild injection-site urticaria in elderly patient,11:15 AM EST,03:30 PM EST (Same Day),4.25,100% COMPLIANT (<24h)
+AE-2026-02,Week 7 (Thursday),Germany,Competitor Biologic (Standard of Care),Physician cited elevated liver transaminases after 8-week therapy,09:40 AM CET,02:10 PM CET (Same Day),4.5,100% COMPLIANT (<24h)
+AE-2026-03,Week 8 (Monday),France,Commercial Biologic (Client Product),Transient headache and fatigue during initial induction dosing,02:20 PM CET,05:00 PM CET (Same Day),2.67,100% COMPLIANT (<24h)

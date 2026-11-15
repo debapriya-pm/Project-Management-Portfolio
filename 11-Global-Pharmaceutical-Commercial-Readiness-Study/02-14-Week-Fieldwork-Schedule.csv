@@ -1,0 +1,20 @@
+WBS Code,Lifecycle Phase & Task Description,Workstream Lead,Duration (Weeks),Start Week,End Week,Deliverable / Milestone,Status
+1.0,Phase 1: Study Scoping & Protocol Development,Debapriya (Program Manager),2,Week 1,Week 2,Signed Research Protocol,COMPLETED
+1.1,Client Alignment Workshop: Define TPP & Business Hypotheses,Debapriya / Pharma Brand Lead,1,Week 1,Week 1,Scoping Charter,COMPLETED
+1.2,Draft Physician Screener (Inclusion/Exclusion Prescribing Criteria),Senior Research Analyst,1,Week 1,Week 2,Validated Screener Tool,COMPLETED
+1.3,Develop Semi-Structured Discussion Guide (Qual) & Questionnaire (Quant),Research Lead,1,Week 2,Week 2,Master Discussion Guide v1.0,COMPLETED
+2.0,Phase 2: Compliance Ethical Approvals & Translation,Compliance / Operations Lead,2,Week 3,Week 4,Ethics & Translation Sign-off,COMPLETED
+2.1,EphMRA / BHBIA / GDPR Ethical & Privacy Review,Healthcare Compliance Officer,1,Week 3,Week 3,Compliance Clearance Certificate,COMPLETED
+2.2,Adverse Event (AE) Pharmacovigilance Protocol Setup (24-Hour Rule),Debapriya / Quality Manager,1,Week 3,Week 3,Standard AE Reporting SOP,COMPLETED
+2.3,Local Language Translation & Cultural Adaptation (German French Italian),Medical Translation Panel,1,Week 4,Week 4,Localized Survey Instruments,COMPLETED
+3.0,Phase 3: Fieldwork Recruitment & Interviewing,Fieldwork Director / PM,5,Week 5,Week 9,100% Sample Target Reached,COMPLETED
+3.1,Recruit & Double-Screen 60 KOL Specialists & 15 Payers (US + EU4),Local Fieldwork Leads,4,Week 5,Week 8,Verified Recruitment Screener Logs,COMPLETED
+3.2,Conduct 75 60-min Qualitative Depth Interviews (Audio & Web-share),Senior Medical Moderators,4,Week 5,Week 9,75 Clean Recorded Transcripts,COMPLETED
+3.3,Program & Launch 250-Physician Online Survey (CAWI),Data Operations Analyst,3,Week 7,Week 9,Raw Quantitative Data File,COMPLETED
+4.0,Phase 4: Data Validation Cleaning & Quality Control,Debapriya / Lead Data Analyst,2,Week 9,Week 11,Validated Clean Data Matrix,COMPLETED
+4.1,100% Audio & Transcript Verification against Prescriber Credentials,QA Specialist,1,Week 9,Week 10,Verified Transcript Audit,COMPLETED
+4.2,Quantitative Data Cleaning: Straight-lining Speeders & Outlier Exclusion,Biostatistician,1,Week 10,Week 10,Clean SPSS/Excel Dataset,COMPLETED
+4.3,Open-Ended Qualitative Coding & Thematic Matrix Formulation,Research Analyst,1,Week 10,Week 11,Thematic Codebook,COMPLETED
+5.0,Phase 5: Synthesis Strategic Storyboarding & C-Suite Delivery,Debapriya (Program Manager),3,Week 12,Week 14,Final Executive Presentation,COMPLETED
+5.1,Draft Comprehensive 95-Slide Strategic Insight Deck,Debapriya / Senior Consultant,2,Week 12,Week 13,Draft Report for Client Review,COMPLETED
+5.2,Executive Workshop & Presentation to Global Brand Leadership,Debapriya / Account Director,1,Week 14,Week 14,Final Workshop Sign-off,COMPLETED
